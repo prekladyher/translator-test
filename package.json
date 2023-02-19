@@ -9,6 +9,7 @@
     "docs:preview": "vitepress preview docs"
   },
   "devDependencies": {
+    "@google-cloud/translate": "^7.1.1",
     "@prekladyher/l10n-toolbox-gettext": "^2.0.0",
     "@types/node": "^18.14.0",
     "@vue/eslint-config-prettier": "^7.0.0",

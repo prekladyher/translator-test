@@ -2,6 +2,7 @@ import { program } from "commander";
 import * as dotenv from "dotenv";
 import { readFile, writeFile } from "node:fs/promises";
 import fetch from "node-fetch";
+import { TranslationServiceClient } from "@google-cloud/translate";
 
 dotenv.config();
 
@@ -46,6 +47,24 @@ async function translateLindat(unit) {
   return data?.join(" ").trim();
 }
 
+const translationClient = new TranslationServiceClient();
+
+/**
+ * @param {TranslationUnit} unit
+ */
+async function translateGoogle(unit) {
+  const credentials = JSON.parse(await readFile(process.env.GOOGLE_APPLICATION_CREDENTIALS, "utf-8"));
+  const request = {
+    parent: `projects/${credentials.project_id}/locations/global`,
+    contents: [unit.source],
+    mimeType: 'text/plain',
+    sourceLanguageCode: 'en',
+    targetLanguageCode: 'cs',
+  };
+  const [ response ] = await translationClient.translateText(request);
+  return response.translations?.[0].translatedText;
+}
+
 /**
  * @type {Record<string, (TranslationUnit) => Promise<string|undefined>}
  */
@@ -53,7 +72,9 @@ const TRANSLATORS = {
 
   deepl: translateDeepl,
 
-  lindat: translateLindat
+  lindat: translateLindat,
+
+  google: translateGoogle
 
 };
 
