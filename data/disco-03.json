@@ -1,0 +1,402 @@
+[
+  {
+    "id": "Dialogue Text/0x0100000700005B87",
+    "source": "\"Yes...\" He reluctantly nods. \"It's probably the smart choice.\"",
+    "target": "\"Ano...\" Neochotně přikývne. \"Asi je to rozumná volba.\"",
+    "deepl": "\"Ano...\" Neochotně přikývne. \"Asi je to rozumná volba.\"",
+    "lindat": "\"Ano...\" Neochotně přikývne. \"Asi je to chytrá volba.\"",
+    "google": "\"Ano...\" Neochotně přikývne. \"Pravděpodobně je to chytrá volba.\""
+  },
+  {
+    "id": "Dialogue Text/0x0100000400007231",
+    "source": "\"Sir, I didn't mean for this to happen. I'm sorry, this has always been a cop-friendly place...\" The man seems shaken by the incident.",
+    "target": "\"Pane, nechtěl jsem, aby se to stalo. Omlouvám se, tohle bylo vždycky místo přátelské k policistům...\" Muž se zdá být incidentem otřesen.",
+    "deepl": "\"Pane, nechtěl jsem, aby se to stalo. Omlouvám se, ale tohle bylo vždycky místo přátelské k policistům...\" Muž se zdá být incidentem otřesen.",
+    "lindat": "\"Pane, nechtěl jsem, aby se to stalo. Omlouvám se, tohle bylo vždycky místo přátelské k policajtům...\" Ten muž vypadá, že je tou událostí otřesen.",
+    "google": "\"Pane, nechtěl jsem, aby se to stalo. Je mi líto, tohle bylo vždy místo přátelské k policistům...\" Zdá se, že muž je incidentem otřesen."
+  },
+  {
+    "id": "Dialogue Text/0x010000820001D8D7",
+    "source": "\"Friday afternoon. When you first arrived. I got word the RCM was in town, then she came in to see me. Told me she was leaving. That's when we had our little... conversation.\"",
+    "target": "\"Páteční odpoledne. Když jsi poprvé přijel. Dostal jsem zprávu, že ROM je ve městě, a pak za mnou přišla. Řekla mi, že odjíždí. Tehdá jsme měli náš malý... rozhovor.\"",
+    "deepl": "\"Páteční odpoledne. Když jsi poprvé přijel. Dostal jsem zprávu, že RCM je ve městě, a pak za mnou přišla. Řekla mi, že odjíždí. Tehdy jsme měli náš malý... rozhovor.\"",
+    "lindat": "\"V pátek odpoledne. Když jste přijel poprvé. Dostal jsem zprávu, že RCM je ve městě, pak za mnou přijela. Řekla mi, že odjíždí. Tehdy jsme si trochu... popovídali.\"",
+    "google": "\"V pátek odpoledne. Když jsi poprvé přijel. Dostal jsem zprávu, že RCM je ve městě, pak za mnou přišla. Řekla mi, že odchází. Tehdy jsme měli náš malý... rozhovor.\""
+  },
+  {
+    "id": "Dialogue Text/0x0100008200017A01",
+    "source": "His hands become fists.",
+    "target": "Ruce se mu sevřou v pěst.",
+    "deepl": "Ruce se mu sevřou v pěst.",
+    "lindat": "Jeho ruce se mění v pěsti.",
+    "google": "Jeho ruce se stanou pěstmi."
+  },
+  {
+    "id": "Dialogue Text/0x0100005A000099AF",
+    "source": "Unlike the girl outside, however, the boys' breathing is regular, their jaws stay put, and their pupils aren't dilated. So they're not under the influence *currently*.",
+    "target": "Narozdíl od té dívky venku. Dech mladíků je pravidelný, jejich čelisti nehybné a zorničky nerozšířené. Takže nejsou *momentálně* pod vlivem.",
+    "deepl": "Na rozdíl od dívky venku však chlapci dýchají pravidelně, jejich čelisti zůstávají na místě a zorničky nejsou rozšířené. Nejsou tedy pod vlivem.",
+    "lindat": "Na rozdíl od dívky venku však chlapci dýchají pravidelně, čelisti drží na místě a zorničky nemají rozšířené. Nejsou tedy pod vlivem *momentálně*.",
+    "google": "Na rozdíl od dívky venku však chlapci dýchají pravidelně, čelisti zůstávají na místě a zorničky nemají rozšířené. Takže nejsou pod vlivem *aktuálně*."
+  },
+  {
+    "id": "Dialogue Text/0x01000029000006E2",
+    "source": "\"And it shouldn't. Nature does not concern herself with ethical propositions. As a scientist, my interest is *strictly dispassionate*.\"",
+    "target": "\"A nemělo by. Příroda se nezabývá etickými propozicemi. Jako vědec se o ni zajímám *striktně nezaujatě*.\"",
+    "deepl": "\"A nemělo by. Příroda se nezabývá etickými propozicemi. Jako vědec se o ni zajímám *přísně nezaujatě*.\"",
+    "lindat": "\"A nemělo by. Příroda se etickými návrhy nezabývá. Jako vědec se zajímám *přísně nezaujatě*.\"",
+    "google": "\"A nemělo by. Příroda se nezajímá o etické návrhy. Jako vědce je můj zájem *přísně nezaujatý*.\""
+  },
+  {
+    "id": "Dialogue Text/0x0100005700016096",
+    "source": "\"But they are working towards it! You're all doing very well here, relatively speaking.\" He gives you an approving nod.",
+    "target": "\"Ale pracují na tom! Jde vám to tu velmi dobře, relativně řečeno.\" Věnuje ti souhlasné přikývnutí.",
+    "deepl": "\"Ale oni na tom pracují! Všichni si tu vedete relativně dobře.\" Souhlasně přikývne.",
+    "lindat": "\"Ale pracují na tom! Relativně vzato se vám tady všem daří velmi dobře.\" Souhlasně na vás kývne.",
+    "google": "\"Ale oni na tom pracují! Relativně vzato se vám tady všem daří velmi dobře.\" Dá vám souhlasné kývnutí."
+  },
+  {
+    "id": "Dialogue Text/0x0100005A00012DFD",
+    "source": "\"Child, converse with me.\"",
+    "target": "\"Dítě, mluv se mnou.\"",
+    "deepl": "\"Dítě, mluv se mnou.\"",
+    "lindat": "\"Dítě, mluv se mnou.\"",
+    "google": "\"Dítě, promluv si se mnou.\""
+  },
+  {
+    "id": "Dialogue Text/0x0100005300001971",
+    "source": "\"You've been saying that for a while. And yet, we only seem to be getting *further* from our actual goal...\"",
+    "target": "\"To už jste už nějakou tu chvíli říkal. A přesto se zdá, že se od našeho cíle jen *vzdalujeme*...\" ",
+    "deepl": "\"To říkáš už nějakou dobu. A přesto se zdá, že se od našeho skutečného cíle jen vzdalujeme...\"",
+    "lindat": "\"To říkáš už nějakou dobu. A přesto se zdá, že se jen *vzdalujeme* od našeho skutečného cíle...\"",
+    "google": "\"Říkáš to už nějakou dobu. A přesto se zdá, že se jen dostáváme *dále* od našeho skutečného cíle...\""
+  },
+  {
+    "id": "Dialogue Text/0x010000570001E090",
+    "source": "...is red from the cold. She's breathing on her fingers clasping the plan. Traces of sadness are visible in her expression.",
+    "target": "...je rudá mrazem. Dýchá si na prsty svírající plán. V jejím výrazu jsou znatelné stopy smutku.",
+    "deepl": "...je zčervenalá zimou. Dýchá na prsty svírající plán. V jejím výrazu jsou patrné stopy smutku.",
+    "lindat": "...je červená od chladu. Dýchá na prsty a svírá plán. V jejím výrazu jsou patrné stopy smutku.",
+    "google": "...je červený od chladu. Dýchá na prsty a svírá plán. V jejím výrazu jsou patrné stopy smutku."
+  },
+  {
+    "id": "Dialogue Text/0x0100007500001287",
+    "source": "\"...\"",
+    "target": "\"...\"",
+    "deepl": "\"...\"",
+    "lindat": "\"...",
+    "google": "\"...\""
+  },
+  {
+    "id": "Dialogue Text/0x0100004500002C25",
+    "source": "Synapses can be rerouted. The mind takes a new shape.",
+    "target": "Synapse lze přesměrovat. Mysl dostává nový tvar.",
+    "deepl": "Synapse lze přesměrovat. Mysl dostává nový tvar.",
+    "lindat": "Synapsy mohou být přesměrovány. Mysl dostává novou podobu.",
+    "google": "Synapse lze přesměrovat. Mysl dostává nový tvar."
+  },
+  {
+    "id": "Actors/0x0100004B0000234D/Name",
+    "source": "DJ Flacio",
+    "target": "DJ Flacio",
+    "deepl": "DJ Flacio",
+    "lindat": "DJ Flacio",
+    "google": "DJ Flacio"
+  },
+  {
+    "id": "Dialogue Text/0x0100000F00014463",
+    "source": "(Search for something you can defend yourself with.)",
+    "target": "(Hledej něco, čím se můžeš bránit.)",
+    "deepl": "(Hledejte něco, čím se můžete bránit.)",
+    "lindat": "(Hledejte něco, s čím se můžete bránit.)",
+    "google": "(Hledejte něco, čím se můžete bránit.)"
+  },
+  {
+    "id": "Dialogue Text/0x0100005700021F23",
+    "source": "\"Seems like I'm a little out of shape. Or maybe my palms were just slippery...\"",
+    "target": "\"Zdá se, že jsem trochu z formy. Nebo mi možná jen kloužou dlaně...\"",
+    "deepl": "\"Zdá se, že jsem trochu z formy. Nebo mi možná jen kloužou dlaně...\"",
+    "lindat": "\"Vypadá to, že jsem trochu z formy. Nebo mi jen klouzaly dlaně...\"",
+    "google": "\"Zdá se, že jsem trochu z formy. Nebo mi možná jen klouzaly dlaně...\""
+  },
+  {
+    "id": "Dialogue Text/0x0100007000005C08",
+    "source": "\"Don't you think that's what I'm *trying* to do?\"",
+    "target": "\"Nemyslíte, že právě o to se *snažím*?\"",
+    "deepl": "\"Nemyslíš, že se o to právě snažím?\"",
+    "lindat": "\"Nemyslíš, že právě o to se *snažím*?\"",
+    "google": "\"Nemyslíš, že to je to, co se *snažím* udělat?\""
+  },
+  {
+    "id": "Dialogue Text/0x0100005A00007417",
+    "source": "\"Yup.\" She squints her eyes a little. \"They were pretty... I'm sorry we sold those.\"",
+    "target": "\"Jop.\" Trochu zamhouří oči. \"Byly krásný... mrzí mě, že jsme je prodali.\"",
+    "deepl": "\"Jo.\" Trochu přimhouří oči. \"Byly pěkné... Mrzí mě, že jsme je prodali.\"",
+    "lindat": "\"Jo.\" Trochu přimhouří oči. \"Byly pěkné... Mrzí mě, že jsme je prodali.\"",
+    "google": "\"Jo.\" Trochu přimhouří oči. \"Byly krásné... Je mi líto, že jsme je prodali.\""
+  },
+  {
+    "id": "Dialogue Text/0x0100000700014851",
+    "source": "\"No gun is worth this risk...\" (Slowly back away.)",
+    "target": "\"Žádná pistole nestojí za takové riziko...\" (Pomalu couvej.)",
+    "deepl": "\"Žádná zbraň nestojí za takové riziko...\" (Pomalu ustupuje.)",
+    "lindat": "\"Žádná zbraň nestojí za takové riziko...\" (Pomalu ustupte.)",
+    "google": "\"Žádná zbraň nestojí za toto riziko...\" (Pomalu ustupujte.)"
+  },
+  {
+    "id": "Dialogue Text/0x0100007500002E24",
+    "source": "\"Yeah,\" she snaps out of the lull. \"Nothing. Now the only thing left to do is to unmute the headphones.\"",
+    "target": "\"Jo,\" vytrhne se z útlumu. \"Nic. Teď už zbývá jen zapnout zvuk do sluchátek.\"",
+    "deepl": "\"Jo,\" vytrhne se z útlumu. \"Nic. Teď už zbývá jen odpojit sluchátka.\"",
+    "lindat": "„Jo,“ vyštěkne z klidu. „Nic. Teď už zbývá jen odmontovat sluchátka.“",
+    "google": "\"Jo,\" vytrhne se z klidu. \"Nic. Teď už zbývá jen zapnout sluchátka.\""
+  },
+  {
+    "id": "Dialogue Text/0x0100005400000645",
+    "source": "\"I can understand how you would mistake Jacob Irw for a powerful electric vortex.\"",
+    "target": "\"Chápu, jak jste si mohl poplést Jakuba Irwa za mocný elektrický vír.\"",
+    "deepl": "\"Chápu, že jste si Jacoba Irwa spletl se silným elektrickým vírem.\"",
+    "lindat": "\"Chápu, jak jste si mohl Jacoba Irwa splést se silným elektrickým vírem.\"",
+    "google": "\"Chápu, jak byste si Jacoba Irwa spletli s mocným elektrickým vírem.\""
+  },
+  {
+    "id": "Dialogue Text/0x0100005A0000D47E",
+    "source": "\"We can continue on an amiable path, right? No more misunderstandings, no more lies.\" He nods, smiling cautiously. \"Before you go, is there anything else you need?\"",
+    "target": "\"Můžeme pokračovat na přátelské cestě, že? Už žádná nedorozumění, žádné lži.\" Přikývne a opatrně se usměje. \"Než odejdeš, ještě něco?\"",
+    "deepl": "\"Můžeme pokračovat v přátelské cestě, že? Už žádná nedorozumění, žádné lži.\" Přikývne a opatrně se usměje. \"Než odejdeš, potřebuješ ještě něco?\"",
+    "lindat": "\"Můžeme pokračovat v přátelské cestě, že? Už žádná nedorozumění, žádné lži.\" Přikývne a opatrně se usměje. \"Než půjdete, potřebujete ještě něco?\"",
+    "google": "\"Můžeme pokračovat v přívětivé cestě, že? Už žádná nedorozumění, žádné lži.\" Přikývne a opatrně se usměje. \"Než půjdeš, potřebuješ ještě něco?\""
+  },
+  {
+    "id": "Dialogue Text/0x0100007200009F28",
+    "source": "He was like a cleric, a shepherd.",
+    "target": "Byl jako klerik, pastýř.",
+    "deepl": "Byl jako klerik, pastýř.",
+    "lindat": "Byl jako duchovní, pastýř.",
+    "google": "Byl jako klerik, pastýř."
+  },
+  {
+    "id": "Dialogue Text/0x0100000B000007B8",
+    "source": "\"What kind?\"",
+    "target": "\"Jakého typu?\"",
+    "deepl": "\"Jaký druh?\"",
+    "lindat": "\"Jakou?\"",
+    "google": "\"Jaký druh?\""
+  },
+  {
+    "id": "Dialogue Text/0x0100000F00007A20",
+    "source": "It smells like a pier, in other words. A completely ordinary pier, that provokes no ideological associations whatsoever.",
+    "target": "Jinými slovy, je to cítit jako molo. Úplně obyčejné molo, které nevyvolává žádné ideologické asociace.",
+    "deepl": "Jinými slovy, voní to jako molo. Úplně obyčejné molo, které nevyvolává žádné ideologické asociace.",
+    "lindat": "Jinými slovy, voní to jako molo. Úplně obyčejné molo, které nevyvolává žádné ideologické asociace.",
+    "google": "Voní to jako molo, jinými slovy. Úplně obyčejné molo, které nevyvolává vůbec žádné ideologické asociace."
+  },
+  {
+    "id": "Dialogue Text/0x0100004D00003A66",
+    "source": "A burly man hangs out by the water lock, carving up a generous serving of salami with an old hunter's knife. His eyes are fixed on a man stranded on the other side of the water lock -- and on an enormous billboard that has fallen down into the canal between them.",
+    "target": " U zdymadla postává mohutný muž, starým loveckým nožem si ukrajuje štědrou porci salámu. Jeho oči se upírají na muže stojíciho na opačném břehu -- a na obrovskou ceduli blokující zdymadlo a kanál, který je mezi nimi.",
+    "deepl": "U vodního uzávěru se potlouká statný muž a starým loveckým nožem si krájí velkorysou porci salámu. Jeho oči se upírají na muže, který uvízl na druhé straně plavební komory - a na obrovský billboard, který spadl do kanálu mezi nimi.",
+    "lindat": "U vodní komory se poflakuje statný muž a starým loveckým nožem si porcuje štědrou porci salámu. Oči upírá na muže, který uvízl na druhé straně vodní komory – a na obrovský billboard, který spadl do kanálu mezi nimi.",
+    "google": "U vodní komory se poflakuje statný muž a starým loveckým nožem krájí velkorysou porci salámu. Jeho oči jsou upřeny na muže, který uvízl na druhé straně vodní komory - a na obrovský billboard, který spadl do kanálu mezi nimi."
+  },
+  {
+    "id": "Dialogue Text/0x0100005A00011A92",
+    "source": "\"What about people from the Coalition? The so-called moralists?\"",
+    "target": "\"Co takhle lidé z Koalice? Takzvaní moralisté?\"",
+    "deepl": "\"A co lidé z Koalice? Takzvaní moralisté?\"",
+    "lindat": "\"A co lidé z Koalice? Ti takzvaní moralisté?\"",
+    "google": "\"A co lidé z Koalice? Takzvaní moralisté?\""
+  },
+  {
+    "id": "Items/novelty_cheque/DisplayName",
+    "source": "Giant Novelty Cheque",
+    "target": "Obří dárkový šek",
+    "deepl": "Obří novinkový šek",
+    "lindat": "Giant Novelty Cheque",
+    "google": "Obří novinka Check"
+  },
+  {
+    "id": "Dialogue Text/0x0100008E000000BD",
+    "source": "\"Talking to him, I realized that sobriety can be pretty *hard core*, too. I gotta respect it...\"",
+    "target": "\"Když jsem se s ním bavil, tak jsem si uvědomil, že i střízlivost může být dost *hard core*. To musím respektovat...\"",
+    "deepl": "\"Když jsem s ním mluvil, uvědomil jsem si, že střízlivost může být také pěkně *tvrdá*. Musím to respektovat...\"",
+    "lindat": "\"Když jsem s ním mluvil, uvědomil jsem si, že střízlivost může být taky pěkně *tvrdé jádro*. Musím to respektovat...\"",
+    "google": "\"Když jsem s ním mluvil, uvědomil jsem si, že střízlivost může být taky pěkně *tvrdé jádro*. Musím to respektovat...\""
+  },
+  {
+    "id": "Dialogue Text/0x0100004500020BF7",
+    "source": "She observes your eyes scanning the horizon, then breaks the silence, slowly.",
+    "target": "Pozoruje, jak očima sleduješ obzor, a pak pomalu přeruší ticho.",
+    "deepl": "Pozoruje tvé oči, jak sledují obzor, a pak pomalu přeruší ticho.",
+    "lindat": "Pozoruje tvé oči, jak zkoumají obzor, pak ticho pomalu přeruší.",
+    "google": "Pozoruje, jak vaše oči skenují obzor, pak pomalu prolomí ticho."
+  },
+  {
+    "id": "Dialogue Text/0x0100000600010787",
+    "source": "Already did that. Evrart's money wasn't gonna last forever. You need more. Every day is a new expense!",
+    "target": "To už jsi udělal. Evrartovy peníze ti nevydržely věčně. Potřebuješ víc. Každý den jsou tu nové výdaje!",
+    "deepl": "To už jsem udělal. Evrartovy peníze by nevydržely věčně. Potřebuješ víc. Každý den jsou to nové výdaje!",
+    "lindat": "To už jsem udělal. Evrartovy peníze by nevydržely věčně. Potřebuješ víc. Každý den je nový výdaj!",
+    "google": "Už jsem to udělal. Evrartovy peníze nevydrží věčně. Potřebuješ víc. Každý den je nový výdaj!"
+  },
+  {
+    "id": "Dialogue Text/0x0100008100003EBA",
+    "source": "THE MODULATIONS OF MY VOICE ARE NOTED DOWN WITH THERMOMETERS AND BAROMETERS. YOU FEEL ME IN YOUR NOSTRILS, ON THE LITTLE HAIRS ON THE BACK OF YOUR NECK.",
+    "target": "MODULACE MÉHO HLASU JSOU ZAZNAMENÁNY POMOCÍ TEPLOMĚRŮ A BAROMETRŮ. CÍTÍŠ MĚ V NOSNÍCH DÍRKÁCH, NA CHLOUPCÍCH NA ZÁTYLKU.",
+    "deepl": "MODULACE MÉHO HLASU JSOU ZAZNAMENÁNY POMOCÍ TEPLOMĚRŮ A BAROMETRŮ. CÍTÍŠ MĚ V NOSNÍCH DÍRKÁCH, NA CHLOUPCÍCH NA ZÁTYLKU.",
+    "lindat": "MODULACE MÉHO HLASU JSOU OZNAMOVÁNY S TERAMOMETRY A BAROMETRY. UŽÍVÁTE MĚ VE SVÝCH NOSTRILÁCH, NA MALÝCH VLASÍCH NA ZÁKLADĚ SVÉHO NECKU.",
+    "google": "MODULACE MÉHO HLASU JSOU ZAHRNUTY TEPLOMĚRY A BAROMETRY. CÍTÍŠ MĚ VE SVÝCH NOSNÍCH, NA VLÁSKÁCH NA ZADNĚ KRKU."
+  },
+  {
+    "id": "Dialogue Text/0x0100008E00004CC3",
+    "source": "\"Now, let's tally up the scores, shall we?\"",
+    "target": "\"A teď sečteme skóre, ano?\"",
+    "deepl": "\"A teď sečteme skóre, ano?\"",
+    "lindat": "\"A teď si sečteme skóre, ano?\"",
+    "google": "\"A teď sečteme skóre, ano?\""
+  },
+  {
+    "id": "Dialogue Text/0x0100002700001317",
+    "source": "The lieutenant shoots you a sideways glance. \"And I am his private partner, John... Shao. Together we run the pre-eminent spousal surveillance firm in Revachol.\"",
+    "target": "Poručík po tobě střelí pohledem. \"A já jsem jeho soukromý partner, Jan... Šao. Společně vedeme nejvýznamnější firmu na sledování manželů v Revacholu.\"",
+    "deepl": "Poručík po tobě střelí pohledem. \"A já jsem jeho soukromý partner, Johne... Shao. Společně vedeme nejvýznamnější firmu na sledování manželů v Revacholu.\"",
+    "lindat": "Poručík po vás střelí postranním pohledem. \"A já jsem jeho soukromý partner, John... Shao. Společně řídíme přední manželskou firmu na sledování v Revacholu.\"",
+    "google": "Poručík na vás vrhne boční pohled. „A já jsem jeho soukromý partner, Johne... Shao."
+  },
+  {
+    "id": "Dialogue Text/0x0100000600014AAA",
+    "source": "\"I am trying to ask Revachol.\"",
+    "target": "\"Snažím se ptát Revacholu.\"",
+    "deepl": "\"Snažím se zeptat Revachola.\"",
+    "lindat": "\"Snažím se zeptat Revachola.\"",
+    "google": "\"Snažím se zeptat Revachola.\""
+  },
+  {
+    "id": "Dialogue Text/0x0100004C0000CB23",
+    "source": "\"I'm going to take off now.\" [Leave.]",
+    "target": "\"Tak já mizím.\" [Odejdi.]",
+    "deepl": "\"Teď odlétám.\" [Odejít.]",
+    "lindat": "„Já teď odstartuju.“ [Odejdi.]",
+    "google": "\"Teď vzlétnu.\" [Odejít.]"
+  },
+  {
+    "id": "Dialogue Text/0x0100007000000082",
+    "source": "\"Yes?\"",
+    "target": "\"Ano?\"",
+    "deepl": "\"Ano?\"",
+    "lindat": "\"Ano?\"",
+    "google": "\"Ano?\""
+  },
+  {
+    "id": "Dialogue Text/0x010000450001B381",
+    "source": "\"This is ballistics. She's left a trajectory for us...\" The lieutenant tests the thread with his finger. Drawn taut, it rebounds instantly.",
+    "target": "\"Tohle je balistika. Zanechala nám trajektorii...\" Poručík zkouší vlákno prstem. Je napnuté, okamžitě se odrazí.",
+    "deepl": "\"Tohle je balistika. Zanechala nám trajektorii...\" Poručík zkouší vlákno prstem. Napnuté se okamžitě odrazí.",
+    "lindat": "\"Tohle je balistika. Nechala nám trajektorii...\" Poručík prstem zkouší nit. Napnutá, okamžitě se odrazí.",
+    "google": "\"To je balistika. Zanechala nám trajektorii...\" Poručík zkouší nit prstem. Natažený, okamžitě se odrazí."
+  },
+  {
+    "id": "Dialogue Text/0x01000027000009A3",
+    "source": "I can try to. (Try to stop.)",
+    "target": "Mohu se o to pokusit. (Zkus přestat.)",
+    "deepl": "Mohu se o to pokusit. (Zkusit přestat.)",
+    "lindat": "Můžu to zkusit. (Zkus přestat.)",
+    "google": "Můžu to zkusit. (Zkuste přestat.)"
+  },
+  {
+    "id": "Dialogue Text/0x0100000700014D44",
+    "source": "Her scratched skin is warm to the touch, but the person inside doesn't even know you're there.",
+    "target": "Její rozškrábaná kůže je na dotek teplá, ale osoba uvnitř ani neví, že tu jsi.",
+    "deepl": "Její poškrábaná kůže je na dotek teplá, ale osoba uvnitř ani neví, že tam jsi.",
+    "lindat": "Její poškrábaná kůže je teplá na dotek, ale člověk uvnitř ani neví, že tam jsi.",
+    "google": "Její poškrábaná kůže je teplá na dotek, ale člověk uvnitř ani neví, že tam jste."
+  },
+  {
+    "id": "Dialogue Text/0x010000060001BDF7",
+    "source": "\"I really *must* insist you buy one of the books.\" You're interrupted by the shopkeep. \"Reading them is not for free. Do still browse though. But not too *long*.\"",
+    "target": "\"Opravdu musím trvat na tom, abyste si jednu z těch knih koupil.\" Přeruší tě prodavačka. \"Jejich čtení není zadarmo. Přesto si je prohlédněte. Ale ne moc dlouho*.\"",
+    "deepl": "\"Opravdu musím trvat na tom, aby sis jednu z těch knih koupil.\" Přeruší tě prodavač. \"Jejich čtení není zadarmo. Přesto si je prohlédněte. Ale ne moc dlouho.\"",
+    "lindat": "\"Opravdu *musím* trvat na tom, abyste si jednu z těch knih koupil.\" Přeruší vás prodavač. \"Čtení není zadarmo. Přesto si je pořád prohlížte. Ale ne moc *dlouho*.\"",
+    "google": "\"Opravdu *musím* trvat na tom, abyste si koupili jednu z knih.\" Jste vyrušeni prodavačkou. \"Čtení není zadarmo. Přesto procházejte. Ale ne příliš *dlouho*.\""
+  },
+  {
+    "id": "Dialogue Text/0x0100000F0000E81A",
+    "source": "The radio appreciates your restraint. It buzzes contentedly.",
+    "target": "Rádio ocení tvoji sebekázeň. Spokojeně bzučí.",
+    "deepl": "Rádio oceňuje vaši zdrženlivost. Spokojeně bzučí.",
+    "lindat": "Rádio oceňuje vaši zdrženlivost. Spokojeně bzučí.",
+    "google": "Rádio oceňuje vaši zdrženlivost. Spokojeně to bzučí."
+  },
+  {
+    "id": "Dialogue Text/0x0100007000004238",
+    "source": "Would you like to try again?",
+    "target": "Chceš to zkusit znovu?",
+    "deepl": "Chcete to zkusit znovu?",
+    "lindat": "Chcete to zkusit znovu?",
+    "google": "Chtěli byste to zkusit znovu?"
+  },
+  {
+    "id": "Dialogue Text/0x0100007200009B26",
+    "source": "So that's why he's 'the deserter.'",
+    "target": "Takže to je ten důvod, proč je 'dezertér'.",
+    "deepl": "Proto je \"dezertér\".",
+    "lindat": "Tak proto je to 'dezertér'.",
+    "google": "Takže to je důvod, proč je 'dezertér'."
+  },
+  {
+    "id": "Dialogue Text/0x010000580000F871",
+    "source": "Giving away all of your possessions,  sacrificing a limb to appease an angry god, trying to live on air and light alone as though you were some kind of plant...",
+    "target": "Rozdat všechen svůj majetek, obětovat končetinu, abys uklidnil rozhněvaného boha, snažit se žít jen ze vzduchu a světla, jako bys byl nějaká rostlina...",
+    "deepl": "Rozdat všechen svůj majetek, obětovat končetinu, abys usmířil rozhněvaného boha, snažit se žít jen ze vzduchu a světla, jako bys byl nějaká rostlina...",
+    "lindat": "Rozdáváte veškerý svůj majetek, obětujete úd, abyste uspokojili rozzlobeného boha, snažíte se žít jen na vzduchu a na světle, jako byste byli nějaká rostlina...",
+    "google": "Vzdát se všeho svého majetku, obětovat úd, abys uklidnil rozhněvaného boha, snažit se žít jen na vzduchu a světle, jako bys byl nějaký druh rostliny..."
+  },
+  {
+    "id": "Dialogue Text/0x0100006B000036A9",
+    "source": "\"Easy, now. They're just chaincutters.\"",
+    "target": "\"V klidu. Jsou to jen štípací kleště.\"",
+    "deepl": "\"Klid. Jsou to jen řezníci řetězů.\"",
+    "lindat": "\"Jen klid. Jsou to jen řetězaři.\"",
+    "google": "\"Klid, teď. Jsou to jen řezači řetězů.\""
+  },
+  {
+    "id": "Dialogue Text/0x0100008200018499",
+    "source": "\"Why don't we make it FORTY, huh?\" The man shouts from behind the counter. \"Why don't we make it A HUNDRED beers, you're not loud enough!\"",
+    "target": "\"Co takhle udělat ČTYŘICET, co?\" Muž křičí zpoza pultu. \"Proč ne STO piv, ještě nejste dost hlasití!\"",
+    "deepl": "\"Co kdybychom jich udělali čtyřicet?\" Muž zpoza pultu vykřikne. \"Proč z toho neuděláme STO piv, nejste dost hlasitý!\"",
+    "lindat": "\"Proč to neuděláme čtyřicetkrát, co?\" Muž křičí zpoza pultu. \"Proč z toho neuděláme piva, nejsi dost hlasitý!\"",
+    "google": "\"Proč to neuděláme ČTYŘICET, co?\" křičí muž zpoza pultu. \"Proč z toho neuděláme STO piv, nejsi dost nahlas!\""
+  },
+  {
+    "id": "Dialogue Text/0x0100008100004F7C",
+    "source": "\"Just one or two more, Lena. Pretty please?\"",
+    "target": "\"Ještě jeden nebo dva, Leno. Pěkně prosím?\"",
+    "deepl": "\"Ještě jeden nebo dva, Leno. Prosím?\"",
+    "lindat": "\"Ještě jednu nebo dvě, Leno. Pěkně prosím?\"",
+    "google": "\"Ještě jeden nebo dva, Leno. Hezky prosím?\""
+  },
+  {
+    "id": "Dialogue Text/0x0100007500002E2B",
+    "source": "\"Yeah,\" she snaps out of the lull. \"Let's do it. Now the only thing left to do is to unmute the headphones.\"",
+    "target": "\"Jo,\" vytrhne se z útlumu. \"Pojďme na to. Teď už zbývá jen zapnout zvuk do sluchátek.\"",
+    "deepl": "\"Jo,\" vytrhne se z útlumu. \"Pojďme na to. Teď už zbývá jen odpojit sluchátka.\"",
+    "lindat": "„Jo,“ vyštěkne z klidu. „Jdeme na to. Teď už zbývá jen odmontovat sluchátka.“",
+    "google": "\"Jo,\" vytrhne se z klidu. \"Pojďme na to. Teď už zbývá jen zapnout sluchátka.\""
+  },
+  {
+    "id": "Dialogue Text/0x0100000700014446",
+    "source": "No. A strange feeling fills your gut and suddenly you *know* the gun is empty. Thinking about it makes you nauseous.",
+    "target": "Ne. Zvláštní pocit ti zaplní útroby a najednou víš, že zbraň je prázdná. Při pomyšlení na to se ti udělá nevolno.",
+    "deepl": "Ne, naplní vás zvláštní pocit a najednou víte, že je zbraň prázdná. Při pomyšlení na to se vám udělá nevolno.",
+    "lindat": "Ne. Naplní vás zvláštní pocit a najednou *víte* že je pistole prázdná. Když na to pomyslíte, zvedá se vám žaludek.",
+    "google": "Ne. Zvláštní pocit naplní tvé útroby a najednou *víš*, že zbraň je prázdná. Při pomyšlení na to se vám dělá nevolno."
+  },
+  {
+    "id": "Dialogue Text/0x0100006B00001775",
+    "source": "\"Fuck does Cuno know?\" He shrugs his shoulders. \"Cuno would use it to bring shit to the island.\"",
+    "target": "\"Jak to má Kuno, do prdele, vědět?\" Pokrčí rameny. \"Kuno by tím tahal věci na ostrov.\"",
+    "deepl": "\"Kurva, ví to Cuno?\" Pokrčí rameny. \"Cuno by to použil, aby na ostrov přivezl hovno.\"",
+    "lindat": "„Kurva, ví to Cuno?“ Pokrčí rameny. „Cuno by to použil, aby na ostrov dopravil hovna.“",
+    "google": "\"Kurva, Cuno to ví?\" Pokrčí rameny. \"Cuno by to použil, aby přinesl hovno na ostrov.\""
+  }
+]

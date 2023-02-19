@@ -1,0 +1,402 @@
+[
+  {
+    "id": "Dialogue Text/0x0100004500015AD0",
+    "source": "\"Can you tell us precisely what these mean?\" (Hand her the photo.)",
+    "target": "\"Můžete nám přesně říct, co to znamená?\" (Podej jí fotografii.)",
+    "deepl": "\"Můžete nám přesně říct, co to znamená?\" (Podejte jí fotografii.)",
+    "lindat": "\"Můžete nám říct, co přesně znamenají?\" (Podejte jí tu fotku.)",
+    "google": "\"Můžeš nám říct, co přesně znamenají?\" (Podejte jí fotku.)"
+  },
+  {
+    "id": "Items/glasses_flipup/Description",
+    "source": "These flip-up sunglasses were fashionable in the Old, but have since lost their popularity. Their thin gold-alloy wire frames are a reminder of drug-addled bohemian artists. These days the glasses are only favoured by organized crime accountants who desire to look cool.",
+    "target": "Za starých časů byly tyto sluneční brýle módní, ale od té doby ztratily na popularitě. Jejich tenké drátěné obroučky ze zlaté slitiny jsou vzpomínkou na bohémské umělce závislé na drogách. V dnešní době si brýle oblíbili pouze účetní organizovaného zločinu, kteří touží vypadat hustě.",
+    "deepl": "Ve starých dobách byly tyto sluneční brýle módní, ale od té doby ztratily na popularitě. Jejich tenké drátěné obroučky ze zlaté slitiny jsou vzpomínkou na bohémské umělce závislé na drogách. V dnešní době si brýle oblíbili pouze účetní organizovaného zločinu, kteří touží vypadat cool.",
+    "lindat": "Tyto flip-up sluneční brýle byly ve Starém módní, ale od té doby ztratily svou popularitu. Jejich tenké drátěné obroučky ze zlaté slitiny jsou připomínkou drogou omámených bohémských umělců. V dnešní době brýle zvýhodňují pouze účetní organizovaného zločinu, kteří touží vypadat cool.",
+    "google": "Tyto vyklápěcí sluneční brýle byly ve starověku módní, ale od té doby ztratily svou popularitu. Jejich tenké drátěné rámy ze zlaté slitiny jsou připomínkou drogově závislých bohémských umělců. V dnešní době brýle preferují pouze účetní z organizovaného zločinu, kteří chtějí vypadat cool."
+  },
+  {
+    "id": "Dialogue Text/0x0100005A00008831",
+    "source": "\"You should talk to Noid about that. I just got a distinct *burnout* and *dopehead* sine from them. Probably jacked up to some snuff station too. Probably, very likely.\"",
+    "target": "\"O tom by sis měl promluvit s Noidem. Na mě působili jako jasný *trosky* a *feťáci*. Nejspíš jsou i napíchlí na nějakou snuff stanici.\"",
+    "deepl": "\"Měl by sis o tom promluvit s Noidem. Právě jsem od nich dostal zřetelnou *vyhořelou* a *dopeheadskou* sinusoidu. Nejspíš je taky napojenej na nějakou snuff stanici. Pravděpodobně, velmi pravděpodobně.\"",
+    "lindat": "„O tom by sis měl promluvit s Noidem. Právě jsem od nich dostal zřetelný *burnout* a *feťácký* sine. Nejspíš taky napíchnutý na nějakou šňupací stanici. Pravděpodobně, velmi pravděpodobně.“",
+    "google": "\"Měl byste si o tom promluvit s Noidem. Právě jsem od nich dostal zřetelné *vyhoření* a *dopehead* sinus. Pravděpodobně jsem se také připojil k nějaké šňupací stanici. Pravděpodobně, velmi pravděpodobně.\""
+  },
+  {
+    "id": "Conversation/0x0100006B000006B1/Description",
+    "source": "Barks for WR protester post-mercenary tribunal. The Women's Rights protester is drunk, lying in the sand. He uses the tare drunk/working class drunk idle animation.",
+    "target": "Štěká na protestující WR po žoldnéřském tribunálu. Protestující za práva žen je opilý a válí se v písku. Používá tárovou animaci opilý/pracující třída opilá nečinně..",
+    "deepl": "Štěká na protestující WR po žoldnéřském tribunálu. Protestující za práva žen je opilý a válí se v písku. Používá tárovou animaci opilý/pracující třída opilá nečinně.",
+    "lindat": "Štěkání za protestující WR post-žoldácký tribunál. Protestující za práva žen je opilý, leží v písku. Používá tárovou opileckou/dělnickou třídu opileckou nečinnou animaci.",
+    "google": "Štěká pro post-žoldnéřský tribunál demonstrantů WR. Protestující za práva žen je opilá a leží v písku. Používá animaci tára opilý/dělnická třída opilý nečinný."
+  },
+  {
+    "id": "Dialogue Text/0x010000060001E639",
+    "source": "Oh god...",
+    "target": "Bože...",
+    "deepl": "Bože...",
+    "lindat": "Bože...",
+    "google": "Pane Bože..."
+  },
+  {
+    "id": "Conversation/0x0100002F00008F63/Description",
+    "source": "Third of Measurehead's awesomely hot companions who also maybe barks mocking stuff at you (on clicking). Or might not, if she's the one sitting behind Measurehead, out of your reach.",
+    "target": "Třetí z Hlavoměrových úžasně sexy společnic, která na tebe možná také posměšně pokřikuje (při kliknutí). Nebo taky ne, pokud sedí za Óbrhlavou, mimo tvůj dosah.",
+    "deepl": "Třetí z Measureheadových úžasně sexy společníků, který na vás možná také posměšně štěká (při kliknutí). Nebo taky ne, pokud sedí za Measureheadem, mimo tvůj dosah.",
+    "lindat": "Třetí z Measureheadových úžasně sexy společnic, která na vás taky možná posměšně štěká (při kliknutí). Nebo taky nemusí, pokud to je ta, co sedí za Measureheadem, mimo váš dosah.",
+    "google": "Třetí z úžasně žhavých společníků Measurehead, kteří na vás také možná posměšně štěkají (po kliknutí). Nebo možná ne, pokud je to ona, kdo sedí za Measurehead, mimo váš dosah."
+  },
+  {
+    "id": "Dialogue Text/0x0100004D00002DDB",
+    "source": "His courtesy is not insincere, but he prefers being alone with his projector, just watching the movement of light across the walls of the shop.",
+    "target": "Jeho zdvořilost není neupřímná, ale raději je se svým projektorem sám a jen pozoruje pohyb světla po stěnách obchodu.",
+    "deepl": "Jeho zdvořilost není neupřímná, ale raději je se svým projektorem sám a jen pozoruje pohyb světla po stěnách obchodu.",
+    "lindat": "Jeho zdvořilost není neupřímná, ale raději je sám se svým projektorem a jen pozoruje pohyb světla po stěnách obchodu.",
+    "google": "Jeho zdvořilost není neupřímná, ale raději je sám se svým projektorem a jen sleduje pohyb světla po stěnách obchodu."
+  },
+  {
+    "id": "Dialogue Text/0x0100004500001E1D",
+    "source": "Written in a rush. In pain. A race to beat your own heart's pulse to some dark finish line.",
+    "target": "Psáno ve spěchu. V bolestech. Závod o zdolání vlastního srdečního tepu až do jakési temné cílové rovinky.",
+    "deepl": "Psáno ve spěchu. V bolestech. Závod o tep vlastního srdce až k nějaké temné cílové čáře.",
+    "lindat": "Napsáno ve spěchu. V bolestech. Závod o tep vlastního srdce k nějaké temné cílové čáře.",
+    "google": "Psáno ve spěchu. V bolestech. Závod o zrychlení tepu vlastního srdce až k nějaké temné cílové čáře."
+  },
+  {
+    "id": "Dialogue Text/0x01000006000151CE",
+    "source": "You could ask the Miss what she thinks. Later, if you have the time -- though you doubt she'll tell you much at this point.",
+    "target": "Můžeš se zeptat slečny, co si o tom myslí. Později, pokud budeš mít čas - i když pochybuješ, že ti toho teď řekne víc.",
+    "deepl": "Můžete se zeptat slečny, co si o tom myslí. Později, pokud budeš mít čas - i když pochybuješ, že ti toho teď řekne víc.",
+    "lindat": "Můžete se zeptat slečny, co si myslí. Později, pokud budete mít čas – i když pochybujete, že by vám toho v této chvíli moc řekla.",
+    "google": "Můžete se zeptat slečny, co si myslí. Později, pokud budete mít čas - i když pochybujete, že vám toho v tuto chvíli řekne hodně."
+  },
+  {
+    "id": "Dialogue Text/0x0100006B0000A7CB",
+    "source": "\"Yeah, man. It's like... at death's door. No wonder you know nothing about the future. You won't *be* there.\"",
+    "target": "\"Jo, chlape. Je to jako... bejt na prahu smrti. Žádnej div, že nevíš nic o budoucnosti. Ty v ní nemáš místo.",
+    "deepl": "\"Jo, chlape. Je to jako... na prahu smrti. Není divu, že nevíš nic o budoucnosti. Nebudeš tam.\"",
+    "lindat": "\"Jo, člověče. Je to jako... na prahu smrti. Není divu, že nevíš nic o budoucnosti. Tam už *nebudeš..\"",
+    "google": "\"Jo, člověče. Je to jako... u dveří smrti. Není divu, že nevíš nic o budoucnosti. *Nebudeš* tam.\""
+  },
+  {
+    "id": "Dialogue Text/0x0100006B000095DC",
+    "source": "Yes! We demand she be punished for deceiving us. We demand her anxiety. We demand her fear.",
+    "target": "Ano! Žádáme, aby byla potrestána za to, že nás podvedla. Požadujeme, aby se bála. Požadujeme její strach.",
+    "deepl": "Ano! Žádáme, aby byla potrestána za to, že nás podvedla. Požadujeme, aby se bála. Požadujeme její strach.",
+    "lindat": "Ano! Požadujeme, aby byla potrestána za to, že nás podvedla. Požadujeme její úzkost. Požadujeme její strach.",
+    "google": "Ano! Žádáme, aby byla potrestána za to, že nás oklamala. Požadujeme její úzkost. Požadujeme její strach."
+  },
+  {
+    "id": "Dialogue Text/0x0100007500001330",
+    "source": "Loos, Radio City? That's the same book the working class woman was reading at the bookstand...",
+    "target": "Loos, město rádií? To je ta samá kniha, kterou si četla dělnická žena u knihkupectví.",
+    "deepl": "Loos, Radio City? To je ta samá kniha, kterou četla dělnice u knihkupectví...",
+    "lindat": "Loos, Radio City? To je ta samá kniha, kterou četla ta dělnice u knihkupectví...",
+    "google": "Loosi, Radio City? To je stejná kniha, kterou četla žena z dělnické třídy u stánku..."
+  },
+  {
+    "id": "Conversation/0x0100002F0000F841/Description",
+    "source": "your old posse. formerly near FELD electrics building with his kid",
+    "target": "tvoje stará parta. dříve poblíž budovy FELD Electrics s jeho dítětem",
+    "deepl": "vaše stará parta. dříve poblíž budovy FELD Electrics s jeho dítětem",
+    "lindat": "vaše stará parta. dříve poblíž budovy FELD electrics se svým děckem",
+    "google": "vaše stará družina. dříve se svým dítětem poblíž budovy elektrotechniky FELD"
+  },
+  {
+    "id": "Dialogue Text/0x0100000700008D72",
+    "source": "Sounds like the kid has a soft spot for Lilienne.",
+    "target": "Zdá se, že tohle dítě má slabost pro Lilianu.",
+    "deepl": "Zdá se, že ten kluk má pro Lilienne slabost.",
+    "lindat": "Vypadá to, že ten kluk má pro Lilienne slabost.",
+    "google": "Vypadá to, že to dítě má pro Lilienne slabost."
+  },
+  {
+    "id": "Dialogue Text/0x010000040000FDC5",
+    "source": "\"He's gonna fucking mi...\"",
+    "target": "\"On to kurva ne...\"",
+    "deepl": "\"On mi kurva...\"",
+    "lindat": "\"On mi kurva...\"",
+    "google": "\"On mě posere...\""
+  },
+  {
+    "id": "Dialogue Text/0x0100000F0000ECA7",
+    "source": "\"Nothing, just lost my balance a moment.\"",
+    "target": "\"Nic, jen jsem na chvíli ztratil sebekontrolu.\"",
+    "deepl": "\"Nic, jen jsem na chvíli ztratil rovnováhu.\"",
+    "lindat": "\"Nic, jen jsem na chvíli ztratil rovnováhu.\"",
+    "google": "\"Nic, jen jsem na chvíli ztratil rovnováhu.\""
+  },
+  {
+    "id": "Dialogue Text/0x0100007100004099",
+    "source": "\"What will happen once you drink from this 'perforation'?\"",
+    "target": "\"Co se stane, až se napijete z toho 'proražení'?\"",
+    "deepl": "\"Co se stane, až se napijete z této 'perforace'?\"",
+    "lindat": "\"Co se stane, až se napijete z této 'perforace'?\"",
+    "google": "\"Co se stane, až se napiješ z této 'perforace'?\""
+  },
+  {
+    "id": "Dialogue Text/0x0100000200001112",
+    "source": "Don't be fooled. The bad times have already begun.",
+    "target": "Nenech se oblbnout. Špatné časy už začaly.",
+    "deepl": "Nenechte se zmást. Špatné časy už začaly.",
+    "lindat": "Nenechte se zmást. Špatné časy už začaly.",
+    "google": "Nenechte se zmást. Zlé časy už začaly."
+  },
+  {
+    "id": "Dialogue Text/0x0100004C00000A73",
+    "source": "\"10-4, what's your status? Over.\"",
+    "target": "\"10-4, jaký je váš stav? Přepínám.\"",
+    "deepl": "\"10-4, jaký je váš stav? Konec.\"",
+    "lindat": "\"10-4, jak jste na tom? Přepínám.\"",
+    "google": "\"10-4, jaký je tvůj stav? Konec.\""
+  },
+  {
+    "id": "Dialogue Text/0x010000070000FF9F",
+    "source": "\"I don't really know. Further down the peninsula I guess. I mean that's where they were heading.\" She points north. \"Who else are you looking for, beside Snow Men?\"",
+    "target": "\"Já vlastně nevím. Hádám, že dál na poloostrově. Mám na mysli to, že tam mířili.\" Ukáže na sever. \"Koho ještě hledáte, kromě Sněžných mužů?\"",
+    "deepl": "\"To opravdu nevím. Asi dál na poloostrově. Myslím, že tam měli namířeno.\" Ukáže na sever. \"Koho ještě hledáš, kromě Sněžných mužů?\"",
+    "lindat": "„To opravdu nevím. Myslím, že dál po poloostrově. Myslím tím, že tam měli namířeno.“ Ukáže na sever. „Koho ještě hledáte, kromě Sněhuláka?“",
+    "google": "\"Opravdu nevím. Myslím, že dál na poloostrově. Chci říct, že tam mířili.\" Ukazuje na sever. \"Koho jiného hledáš kromě Sněžných mužů?\""
+  },
+  {
+    "id": "Dialogue Text/0x0100008100004033",
+    "source": "Keep the thought to yourself.",
+    "target": "Nech si tu myšlenku pro sebe.",
+    "deepl": "Nechte si tuto myšlenku pro sebe.",
+    "lindat": "Myšlenku si nechte pro sebe.",
+    "google": "Nechte si myšlenku pro sebe."
+  },
+  {
+    "id": "Dialogue Text/0x0100000600019AF7",
+    "source": "Just nod compassionately.",
+    "target": "Jen soucitně přikývni.",
+    "deepl": "Jen soucitně přikývněte.",
+    "lindat": "Jen soucitně přikyvujte.",
+    "google": "Jen soucitně přikývněte."
+  },
+  {
+    "id": "Dialogue Text/0x010000640000B263",
+    "source": "\"C'mere, you mesque coward... die with the rest... die like a man...\"",
+    "target": "\"No tak, ty meskanskej zbabělče... zemři s ostatními... zemři jako chlap...\"",
+    "deepl": "\"No tak, ty zbabělče... zemři s ostatními... zemři jako chlap...\"",
+    "lindat": "\"Pojď sem, ty meskní zbabělče... zemři s ostatními... zemři jako muž...\"",
+    "google": "\"Pojď, ty zbabělče... zemři se zbytkem... zemři jako muž...\""
+  },
+  {
+    "id": "Dialogue Text/0x010000060000FA87",
+    "source": "Cool cop?",
+    "target": "Bezva polda?",
+    "deepl": "Bezva policajt?",
+    "lindat": "Pohodovej polda?",
+    "google": "Skvělý policajt?"
+  },
+  {
+    "id": "Dialogue Text/0x010000060001A90F",
+    "source": "Hmm... what does one talk about with a fellow officer?",
+    "target": "Hmm... o čem se mluví s kolegou policistou?",
+    "deepl": "Hmm... o čem se mluví s kolegou policistou?",
+    "lindat": "Hmm... o čem se mluví s kolegou důstojníkem?",
+    "google": "Hmm... o čem se mluví s kolegou důstojníkem?"
+  },
+  {
+    "id": "Dialogue Text/0x010000060001D91A",
+    "source": "Listen to him. For once.",
+    "target": "Poslechni ho. Pro jednou.",
+    "deepl": "Poslechněte si ho. Aspoň jednou.",
+    "lindat": "Poslechněte si ho. Aspoň jednou.",
+    "google": "Poslouchej ho. Výjimečně."
+  },
+  {
+    "id": "Dialogue Text/0x0100000900001E00",
+    "source": "\"Come on, anyone would notice that!\" She rolls her eyes.",
+    "target": "\"No tak, toho by si všiml každý!\" Obrátí oči v sloup.",
+    "deepl": "\"No tak, toho by si všiml každý!\" Obrátí oči v sloup.",
+    "lindat": "„No tak, toho by si všiml každý!“ Obrátí oči v sloup.",
+    "google": "\"No tak, každý by si toho všiml!\" Protočí očima."
+  },
+  {
+    "id": "Dialogue Text/0x0100004500019BD6",
+    "source": "\"Where the walls are still porous and you can slip through. This is just... something to get me through the night you know. A little *espérance*.\"",
+    "target": "\"Tam, kde jsou stěny stále děravé a můžete jimi proklouznout. Tohle je jen... něco, co mi pomůže přečkat noc, víte? Trochu *espérance*.\"",
+    "deepl": "\"Tam, kde jsou stěny stále děravé a můžete jimi proklouznout. Tohle je jen... něco, co mi pomůže přečkat noc, víš? Trochu *espérance*.\"",
+    "lindat": "\"Kde jsou stěny ještě porézní a dá se jimi proklouznout. Tohle je jen... něco, co mi pomůže přečkat noc. Trochu *espérance*.\"",
+    "google": "\"Tam, kde jsou stěny stále porézní a můžete jimi proklouznout. Tohle je jen... něco, co mě přenese přes noc, víte. Trochu *espérance*.\""
+  },
+  {
+    "id": "Dialogue Text/0x010000060000F902",
+    "source": "No. It's not that.",
+    "target": "Ne. To není ono.",
+    "deepl": "Ne, tak to není.",
+    "lindat": "Ne. O to nejde.",
+    "google": "Ne. To není ono."
+  },
+  {
+    "id": "Dialogue Text/0x0100005300004B2C",
+    "source": "\"In any case, I'll let you take it from here.\"",
+    "target": "\"Každopádně to nechám na vás.\"",
+    "deepl": "\"Každopádně to nechám na vás.\"",
+    "lindat": "\"V každém případě vás nechám, abyste se o to postaral sám.\"",
+    "google": "\"V každém případě tě nechám vzít to odtud.\""
+  },
+  {
+    "id": "Dialogue Text/0x0100006B00005615",
+    "source": "Don't stop nodding.",
+    "target": "Nepřestávej kývat.",
+    "deepl": "Nepřestávejte přikyvovat.",
+    "lindat": "Nepřestávej přikyvovat.",
+    "google": "Nepřestávejte přikyvovat."
+  },
+  {
+    "id": "Dialogue Text/0x0100009200001043",
+    "source": "\"It doesn't matter what I say, you're just going to continue, right?\"",
+    "target": "\"Nezáleží na tom, co říkám, budeš prostě pokračovat, že?\"",
+    "deepl": "\"Nezáleží na tom, co říkám, budeš prostě pokračovat, že?\"",
+    "lindat": "\"Nezáleží na tom, co řeknu, ty prostě budeš pokračovat, že?\"",
+    "google": "\"Nezáleží na tom, co říkám, budeš prostě pokračovat, ne?\""
+  },
+  {
+    "id": "Conversation/0x010000640000CA13/Description",
+    "source": "ESPRIT RED CHECK",
+    "target": "DUCH ČERVENÁ KONTROLA",
+    "deepl": "ESPRIT ČERVENÁ KONTROLA",
+    "lindat": "ESPRIT ČERVENÁ KONTROLA",
+    "google": "ESPRIT ČERVENÝ ŠEK"
+  },
+  {
+    "id": "Dialogue Text/0x010000040000E27C",
+    "source": "\"No?\" The lieutenant's expression is stern and impenetrable. He points at you: \"You *will* get your shit together.\"",
+    "target": "\"Ne?\" Poručík má přísný a neproniknutelný výraz. Ukáže na tebe: \"Vy si ty svoje sračky dohromady *dáte*\"",
+    "deepl": "\"Ne?\" Poručík má přísný a neproniknutelný výraz. Ukáže na tebe: \"Dáš se dohromady.\"",
+    "lindat": "„Ne?“ Poručíkova tvář je přísná a neproniknutelná. Ukazuje na vás: „Ty se dáš do kupy.“",
+    "google": "\"Ne?\" Poručíkův výraz je přísný a neproniknutelný. Ukáže na tebe: \"Ty *dáš* ty sračky dohromady.\""
+  },
+  {
+    "id": "Dialogue Text/0x010000820000A23A",
+    "source": "\"Everything points to the Dockworkers' Union: the tracks in the mud, the circumstances in Martinaise, my preliminary information...\"",
+    "target": "\"Všechno ukazuje na Dokařské odbory: stopy v bahně, okolnosti v Martinéze, moje předběžné informace...\"",
+    "deepl": "\"Všechno ukazuje na Dělnickou unii: stopy v bahně, okolnosti v Martinaise, moje předběžné informace...\"",
+    "lindat": "\"Všechno ukazuje na Svaz dokařů: stopy v bahně, okolnosti v Martinaise, moje předběžné informace...\"",
+    "google": "\"Všechno ukazuje na Svaz přístavních dělníků: stopy v bahně, okolnosti v Martinaise, moje předběžné informace...\""
+  },
+  {
+    "id": "Dialogue Text/0x0100007000006B39",
+    "source": "\"I won't tell you how to do your job. But remember, this is an RCM matter. Make sure you weigh your next words carefully.\"",
+    "target": "\"Nebudu vám říkat, jak máte dělat svoji práci. Ale pamatujte, toto je záležitost ROM. Zvažte svá další slova pečlivě.\"",
+    "deepl": "\"Nebudu vám říkat, jak máte dělat svou práci. Ale pamatujte, že se jedná o záležitost RCM. Ujistěte se, že pečlivě zvážíte svá další slova.\"",
+    "lindat": "\"Nebudu vám říkat, jak máte dělat svou práci. Ale pamatujte si, že tohle je záležitost RCM. Dbejte na to, abyste pečlivě vážil svá další slova.\"",
+    "google": "\"Nebudu ti říkat, jak máš dělat svou práci. Ale pamatuj, že tohle je záležitost RCM. Ujistěte se, že pečlivě zvažte svá další slova.\""
+  },
+  {
+    "id": "Dialogue Text/0x010000070000161B",
+    "source": "\"Yes. Well. I looked at it and thought I should -- because it says *youth centre* and I have my own children. I am, of course, just a stupid poor person, so what do I know?\"",
+    "target": "\"Ano. No, podívala jsem se na to a řekla si, že bych měla - protože se tam píše o *centru pro mládež* a já mám vlastní děti. Jsem samozřejmě jen hloupá chudá osoba, takže co tak můžu vědět?\"",
+    "deepl": "\"Ano. Podívala jsem se na to a řekla jsem si, že bych měla - protože je tam napsáno *mládežnické centrum* a já mám vlastní děti. Jsem ovšem jenom hloupý chudák, tak co já vím?\"",
+    "lindat": "\"Ano. No. Podívala jsem se na to a napadlo mě, že bych měla – protože se tam píše *centrum pro mládež* a já mám vlastní děti. Já jsem samozřejmě jen hloupý chudý člověk, tak co já vím?\"",
+    "google": "\"Ano. No. Díval jsem se na to a řekl jsem si, že bych měl - protože je tam napsáno *centrum pro mládež* a já mám vlastní děti. Jsem samozřejmě jen hloupý chudák, tak co já vím?\""
+  },
+  {
+    "id": "Dialogue Text/0x0100008100004D73",
+    "source": "\"Ah, fuck it. Let's have more cryptids.\"",
+    "target": "\"Ále, srát na to. Dáme si víc kryptidů.\"",
+    "deepl": "\"Ah, kašlu na to. Dáme si víc kryptoidů.\"",
+    "lindat": "\"Á, seru na to. Dáme si ještě kryptidy.\"",
+    "google": "\"Aha, kurva. Pojďme mít více kryptidů.\""
+  },
+  {
+    "id": "Dialogue Text/0x010000040000600C",
+    "source": "\"Yes. It was very cool.\"",
+    "target": "\"Ano. Bylo to moc suprácké.\"",
+    "deepl": "\"Ano. Bylo to moc fajn.\"",
+    "lindat": "\"Ano. Bylo to velmi chladné.\"",
+    "google": "\"Ano. Bylo to velmi cool.\""
+  },
+  {
+    "id": "Conversation/ov8pa82yo2rd7rk0/Title",
+    "source": "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / locational 13",
+    "target": "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / locational 13",
+    "deepl": "Arx - EasterEggs / Modus Mullen / Flow - MULLEN ORB / lokální 13",
+    "lindat": "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / location 13",
+    "google": "Arx - EasterEggs / Modus Mullen / Flow – MULLEN ORB / umístění 13"
+  },
+  {
+    "id": "Dialogue Text/0x01000045000118D4",
+    "source": "\"Reporting crimes is confidential in Revachol, miss.\"",
+    "target": "\"Nahlášení trestných činů je v Revacholu důvěrné, slečno.\"",
+    "deepl": "\"Nahlášení trestných činů je v Revacholu důvěrné, slečno.\"",
+    "lindat": "\"Hlášení zločinů je v Revacholu důvěrné, slečno.\"",
+    "google": "\"Hlášení zločinů je v Revacholu důvěrné, slečno.\""
+  },
+  {
+    "id": "Dialogue Text/0x010000040000E964",
+    "source": "\"Stop obsessing about your sexuality officer, you're about to seriously compromise the coroner's case.\"",
+    "target": "\"Přestaňte se zabývat svou sexualitou, detektive, vážně tím ohrozíte soudní pitvu.\"",
+    "deepl": "\"Přestaňte se zabývat svou sexualitou, důstojníku, vážně tím ohrozíte koronerův případ.\"",
+    "lindat": "\"Přestaňte být posedlý svou sexuologickou pracovnicí, chystáte se vážně kompromitovat koronerův případ.\"",
+    "google": "\"Přestaňte být posedlí svým sexuálním důstojníkem, chystáte se vážně kompromitovat případ koronera.\""
+  },
+  {
+    "id": "Dialogue Text/0x010000060001E445",
+    "source": "All right. Let's consider the context and meaning here.",
+    "target": "Dobře. Uvažujme o kontextu a významu.",
+    "deepl": "Dobře. Zvažme kontext a význam.",
+    "lindat": "Dobře. Pojďme se zamyslet nad kontextem a významem.",
+    "google": "Dobře. Podívejme se zde na kontext a význam."
+  },
+  {
+    "id": "Dialogue Text/0x01000072000035F8",
+    "source": "\"But you said I have a vast soul and you will always come back to it.\"",
+    "target": "\"Ale ty jsi řekla, že mám rozhlehlo duší a ty se k ní budeš vždy vracet.\"",
+    "deepl": "\"Ale říkal jsi, že mám obrovskou duši a že se k ní vždycky vrátíš.\"",
+    "lindat": "\"Ale vždyť jsi říkal, že mám obrovskou duši a ty se k ní vždycky vrátíš.\"",
+    "google": "\"Ale řekl jsi, že mám obrovskou duši a vždy se k ní vrátíš.\""
+  },
+  {
+    "id": "Dialogue Text/0x010000450000B9C5",
+    "source": "From the looks of it the Fifties haven't been much better for the Zone of Control -- you can see it in her eyes. Days slipping away....",
+    "target": "Jak to tak vypadá, padesátá léta nebyla pro Zónu kontroly o moc lepší - je jí to vidět na očích. Dny ubíhají....",
+    "deepl": "Jak to tak vypadá, padesátá léta nebyla pro Zónu kontroly o moc lepší - je jí to vidět na očích. Dny ubíhají....",
+    "lindat": "Podle toho, jak to vypadá, padesátá léta nebyla pro Zónu kontroly o moc lepší – je jí to vidět na očích. Dny utíkají...",
+    "google": "Jak to vypadá, padesátá léta nebyla pro Zónu kontroly o moc lepší – můžete to vidět v jejích očích. Dny utíkají...."
+  },
+  {
+    "id": "Dialogue Text/0x0100000800001304",
+    "source": "\"I'll keep my Armistice handy, detective.\"",
+    "target": "\"Budu mít po ruce Příměří, detektive.\"",
+    "deepl": "\"Budu mít po ruce Armistice, detektive.\"",
+    "lindat": "\"Nechám si své příměří po ruce, detektive.\"",
+    "google": "\"Budu mít své příměří po ruce, detektive.\""
+  },
+  {
+    "id": "Dialogue Text/0x01000027000010EF",
+    "source": "\"What are you doing?\" he asks without turning his eyes from the street outside.",
+    "target": "\"Co to provádíte?\" zeptá se, aniž by odvrátil pohled od ulice.",
+    "deepl": "\"Co to děláš?\" zeptá se, aniž by odvrátil pohled od ulice.",
+    "lindat": "\"Co to děláš?\" ptá se, aniž by odvrátil oči od ulice venku.",
+    "google": "\"Co děláš?\" ptá se, aniž by otočil oči z ulice venku."
+  },
+  {
+    "id": "Dialogue Text/0x0100005300003EF5",
+    "source": "\"Now you'll excuse me. I have to get back to my own work.\"",
+    "target": "Teď mě omluvte. Musím se vrátit ke své práci.\"",
+    "deepl": "\"Teď mě omluvte. Musím se vrátit ke své práci.\"",
+    "lindat": "\"Teď mě omluvte. Musím se vrátit ke své práci.\"",
+    "google": "\"Teď mě omluvte. Musím se vrátit ke své práci.\""
+  },
+  {
+    "id": "Items/magnesium/Description",
+    "source": "Magnesium is the salve upon the wretched torn up by the storm of life. NOTE! Magnesium is a MEDICINE. It will restore your Morale by +1. Click on the + icon to heal your Morale, if you have Morale damage.",
+    "target": "Hořčík je balzámem pro nešťastníky zmítané bouří života. POZNÁMKA: Hořčík je LÉK. Obnoví tvou morálku o +1. Kliknutím na ikonu + si vyléčíš Morálku, pokud ji máš poškozenou.",
+    "deepl": "Hořčík je balzámem na nešťastníky zmítané bouří života. POZNÁMKA: Hořčík je LÉK. Obnoví vaši morálku o +1. Kliknutím na ikonu + si vyléčíte Morálku, pokud máte poškozenou Morálku.",
+    "lindat": "Hořčík je hojivá mast na ubožáky rozervané bouří života. POZNÁMKA! Hořčík je LÉČIVÝ. Obnoví vaši morálku o +1. Klikněte na ikonu + a uzdravte svou morálku, máte-li morálku poškozenou.",
+    "google": "Hořčík je mastí na ubohé zmítané bouří života. POZNÁMKA! Hořčík je LÉK. Obnoví vaši morálku o +1. Kliknutím na ikonu + vyléčíte svou morálku, pokud máte poškození morálky."
+  },
+  {
+    "id": "Dialogue Text/0x010000060001A137",
+    "source": "This is tangential at best, but the lieutenant's *detective instinct* is still active.",
+    "target": "Je to přinejlepším nepodstatné, ale poručíkův *detektivní instinkt* je stále aktivní.",
+    "deepl": "Je to přinejlepším styčné, ale poručíkův *detektivní instinkt* je stále aktivní.",
+    "lindat": "To je přinejlepším tangenciální, ale poručíkův *detektivní instinkt* je stále aktivní.",
+    "google": "To je přinejlepším tangenciální, ale poručíkův *detektivní instinkt* je stále aktivní."
+  }
+]
