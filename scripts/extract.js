@@ -9,14 +9,12 @@ import { parseString } from "xml2js";
  * @typedef { import("../types").TranslationUnit } TranslationUnit
  */
 
-/**
- * @param {TranslationUnit[]} units
- */
-async function writeUnits(output, units) {
+async function writeOutput(data) {
+  const { output } = program.opts();
   if (output) {
-    await writeFile(output, JSON.stringify(units, null, "  "));
+    await writeFile(output, JSON.stringify(data, null, "  "));
   } else {
-    console.log(JSON.stringify(units, null, "  "));
+    console.log(JSON.stringify(data, null, "  "));
   }
 }
 
@@ -45,8 +43,7 @@ program
         });
       }
     }
-    const { output } = program.opts();
-    await writeUnits(output, units);
+    await writeOutput(units);
   });
 
 program
@@ -55,6 +52,22 @@ program
   .argument("<path>", "source translation project path")
   .action(({ output }) => {
     // TODO nacteni Disco prekladu
+  });
+
+program
+  .command("random")
+  .description("extract random translation units")
+  .argument("<path>", "source translation file")
+  .option("-n, --number <count>", "number of units to extract", 20)
+  .action(async (source, { number: count }) => {
+    const units = JSON.parse(await readFile(source, "utf-8"));
+    for (let i = 0; i < count; i++) {
+      const pick = Math.floor(Math.random() * (units.length - i));
+      const temp = units[i];
+      units[i] = units[pick];
+      units[pick] = temp;
+    }
+    await writeOutput(units.slice(0, count));
   });
 
 program.parse();
