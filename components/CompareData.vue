@@ -23,8 +23,6 @@ const { data } = defineProps<{
         <dd>{{ unit.google }}</dd>
         <dt>LINDAT</dt>
         <dd>{{ unit.lindat }}</dd>
-        <dt>Lingea</dt>
-        <dd>{{ unit.lingea }}</dd>
     </dl>
 </template>
 

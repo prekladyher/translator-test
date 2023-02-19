@@ -1,82 +1,402 @@
 [
   {
-    "id": "MQ101PlayerCommentWasher/02180D",
-    "source": "Washer",
-    "target": "Pračka",
-    "deepl": "Podložka",
-    "lindat": "Podložka",
-    "google": "Podložka"
+    "id": "[010053EE]/000603",
+    "source": "The Power Cycle appears to have generated an EMP. Fascinating.",
+    "target": "Zdá se, že elektrokolo vygenerovalo elektromagnetický puls. Fascinující.",
+    "deepl": "Zdá se, že energetický cyklus vytvořil EMP. Fascinující.",
+    "lindat": "Zdá se, že energetický cyklus vygeneroval EMP. Fascinující.",
+    "google": "Zdá se, že Power Cycle vygeneroval EMP. Fascinující."
   },
   {
-    "id": "[01005C59]/000410",
-    "source": "Rent Room (<Global=ServiceCostRentRoom> Caps)",
-    "target": "Pronajmout místnost (<Global=ServiceCostRentRoom> zátek)",
-    "deepl": "Pronájem místnosti (<Global=ServiceCostRentRoom> Caps)",
-    "lindat": "Nájemní pokoj (<Global=ServiceCostRentRoom> Caps)",
-    "google": "Pronájem místnosti (<Global=ServiceCostRentRoom> Caps)"
+    "id": "[0005D77E]/01F3D5",
+    "source": "Don't answer",
+    "target": "Neodpovědět",
+    "deepl": "Neodpovídejte",
+    "lindat": "Neodpovídat",
+    "google": "Neodpovídej"
   },
   {
-    "id": "TrainingLK03/01DBA5",
-    "source": "Luck is a measure of your general good fortune, and affects the recharge rate of Critical Hits. Now you instantly gain 1 point!",
-    "target": "Štěstí je mírou celkové přízně tvého osudu a ovlivňuje rychlost dobíjení kritických zásahů. Nyní okamžitě získáváš 1 bod!",
-    "deepl": "Štěstí je měřítkem vašeho obecného štěstí a ovlivňuje míru dobíjení kritických zásahů. Nyní okamžitě získáte 1 bod!",
-    "lindat": "Štěstí je měřítkem vašeho všeobecného štěstí a ovlivňuje rychlost dobíjení Critical Hits. Nyní okamžitě získáváte 1 bod!",
-    "google": "Štěstí je měřítkem vašeho obecného štěstí a ovlivňuje rychlost dobíjení kritických zásahů. Nyní okamžitě získáte 1 bod!"
+    "id": "EatOTronic01/0293D8",
+    "source": "Eat-o-Tronic",
+    "target": "Žrádlomat",
+    "deepl": "Eat-o-Tronic",
+    "lindat": "Eat-o-Tronic",
+    "google": "Eat-o-Tronic"
   },
   {
-    "id": "[0017C2D4]/02ECD9",
-    "source": "Damn, well, if you happen to get some... don't forget about your new pal Bobby here.",
-    "target": "Zatraceně, no, pokud budeš něco mít... nezapomeň na svého nového kámoše Bobbyho.",
-    "deepl": "Sakra, no, kdybys náhodou nějaký dostal... nezapomeň na svého nového kamaráda Bobbyho.",
-    "lindat": "Sakra, no, kdybys náhodou nějaký dostal... nezapomeň tady na svýho novýho kámoše Bobbyho.",
-    "google": "Sakra, no, jestli náhodou nějaké seženeš... nezapomeň tady na svého nového kamaráda Bobbyho."
+    "id": "Armor_Combat_Torso/02EA94",
+    "source": "BoS",
+    "target": "BO",
+    "deepl": "BoS",
+    "lindat": "BoS",
+    "google": "BoS"
   },
   {
-    "id": "[0104D6F6]/004511",
-    "source": "That's what this is to you? You're sick...",
-    "target": "Takže takhle to vnímáš? Jsi nemocný...",
-    "deepl": "Tohle je pro tebe tohle? Jsi nemocný...",
-    "lindat": "To je pro tebe? Jsi nemocný...",
-    "google": "To je pro tebe tohle? Jste nemocná..."
+    "id": "AAA_mod_melee_TEMPLATE_SpikesSmall/02CADE",
+    "source": "Armor piercing. Improved damage.",
+    "target": "Protipancéřové. Lepší poškození.",
+    "deepl": "Průraznost pancíře. Vylepšené poškození.",
+    "lindat": "Protipancéřování. Lepší poškození.",
+    "google": "Průraz brnění. Vylepšené poškození."
   },
   {
-    "id": "[01036F8F]/003F1D",
-    "source": "Colter thought some sort of rule or code made him untouchable... but he found out he was wrong... the hard way.",
-    "target": "Colter si myslel, že ho nějaká pravidla činí nedotknutelným. Ale zjistil, že tomu tak není... a tvrdě na to doplatil.",
-    "deepl": "Colter si myslel, že ho nějaké pravidlo nebo kodex činí nedotknutelným... ale zjistil, že se mýlí... a to velmi tvrdě.",
-    "lindat": "Colter si myslel, že ho nějaké pravidlo nebo kodex dělá nedotknutelným... ale zjistil, že se mýlí... po zlém.",
-    "google": "Colter si myslel, že nějaký druh pravidla nebo kodexu ho dělá nedotknutelným... ale zjistil, že se mýlil... tou nejtěžší cestou."
+    "id": "PlayerDoctorQuestionShared01/026AA5",
+    "source": "I've got an... itch, doc. Too many chems. Got anything that can help?",
+    "target": "Mám... problém. Moc chemikálií. Máš něco, co by mi pomohlo?",
+    "deepl": "Mám... svědění, doktore. Příliš mnoho léků. Máte něco, co by vám pomohlo?",
+    "lindat": "Mám... svrbění, doktore. Příliš mnoho chemikálií. Máte něco, co by pomohlo?",
+    "google": "Mám... svědění, doktore. Příliš mnoho chemikálií. Máte něco, co může pomoci?"
   },
   {
-    "id": "[0013A269]/02D108",
-    "source": "And he's not so bad to look at, either.",
-    "target": "A ani se na něj nekouká dvakrát špatně.",
-    "deepl": "A ani na pohled není špatný.",
-    "lindat": "A není tak špatný na pohled, a to buď.",
-    "google": "A taky není tak špatný na pohled."
+    "id": "SignRoad_OneWayR02/0354AB",
+    "source": "Sign",
+    "target": "Cedule",
+    "deepl": "Podepsat",
+    "lindat": "Znak",
+    "google": "Podepsat"
   },
   {
-    "id": "miscmod_mod_PipeRevolver_Scope_ScopeLong_NV/028EAF",
-    "source": "Pipe Revolver Long Night Vision Scope",
-    "target": "Trubkový revolver - dlouhá noční optika",
-    "deepl": "Trubkový revolver s dlouhým dalekohledem pro noční vidění",
-    "lindat": "Pipe Revolver Long Night Vision Scope",
-    "google": "Pipe Revolver Long Night Vision Scope"
+    "id": "[0016EA8A]/024C34",
+    "source": "Pardon me, sergeant/airman/petty officer/insert rank here... but you're mistaken. I'm simply here to quench your thirst!",
+    "target": "Promiňte, seržante/pilote/poddůstojníku/zde vložte hodnost... ale mýlíte se. Jsem tu prostě proto, abych uhasil vaši žízeň!",
+    "deepl": "Promiňte, seržante/letče/poddůstojníku/vložte hodnost... ale mýlíte se. Jsem tu jen proto, abych uhasil vaši žízeň!",
+    "lindat": "Promiňte, seržante/letče/poddůstojníku/vložte sem hodnost... ale mýlíte se. Jsem tu jen proto, abych uhasil vaši žízeň!",
+    "google": "Promiňte, seržante/letce/poddůstojníka/uveďte hodnost... ale mýlíte se. Jsem tu jen proto, abych uhasil vaši žízeň!"
   },
   {
-    "id": "[0016AA3C]/01CFA4",
-    "source": "It might be smarter to see if we can talk our way out of this first.",
-    "target": "Možná bude lepší nejdřív zkusit, jestli se z toho nemůžeme vykecat.",
-    "deepl": "Možná by bylo rozumnější zjistit, jestli se z toho můžeme nejprve vymluvit.",
-    "lindat": "Možná by bylo chytřejší zkusit, jestli se z toho nejdřív nevykecáme.",
-    "google": "Možná by bylo chytřejší zjistit, jestli se z toho nejdřív dokážeme vymluvit."
+    "id": "[01042FBA]/00342D",
+    "source": "I guess it really doesn't matter, does it? DiMA's dead. Maybe it's better not trying to think about... what having \"family\" might have been like...",
+    "target": "Myslím, že je to vlastně nakonec jedno, ne? DiMA je mrtvý. Možná bude nejlepší o tom nepřemýšlet.. jaké to mohlo být, mít rodinu...",
+    "deepl": "Myslím, že na tom nezáleží, že? DiMA je mrtvá. Možná je lepší nesnažit se přemýšlet o tom... jaké to asi bylo mít \"rodinu\"...",
+    "lindat": "Myslím, že na tom opravdu nezáleží, že? DiMA je mrtvý. Možná je lepší se nesnažit myslet na to, jaké by to bylo mít \"rodinu\".",
+    "google": "Myslím, že je to vlastně jedno, ne? DiMA je mrtvý. Možná je lepší nemyslet na to... jaké to mohlo být mít \"rodinu\"..."
   },
   {
-    "id": "aaCharGenLoad2/032729",
-    "source": "On the morning of Saturday, October 23, 2077 America was consumed by the flames of nuclear war. The war with China had finally reached its cataclysmic conclusion. ",
-    "target": "Jednoho sobotního rána, 23. října 2077, byla Amerika pohlcena plameny nukleární války. Válka s Čínou konečně dosáhla svého katastrofického vyústění.",
-    "deepl": "V sobotu 23. října 2077 ráno zachvátily Ameriku plameny jaderné války. Válka s Čínou konečně dospěla ke svému kataklyzmatickému závěru.",
-    "lindat": "V sobotu 23. října 2077 ráno pohltily Ameriku plameny jaderné války. Válka s Čínou konečně dospěla ke kataklyzmatickému závěru.",
-    "google": "Ráno v sobotu 23. října 2077 Ameriku pohltily plameny jaderné války. Válka s Čínou konečně dospěla ke svému kataklyzmatickému závěru."
+    "id": "[010089B0]/0004F7",
+    "source": "No, no, no. It's for the Children of Atom.",
+    "target": "Ne, ne, ne. Je to na Děti Atoma.",
+    "deepl": "Ne, ne, ne. Je to pro děti Atomu.",
+    "lindat": "Ne, ne, ne. Je to pro Děti Atoma.",
+    "google": "Ne ne ne. Je to pro děti Atomu."
+  },
+  {
+    "id": "[0004582A]/0173B0",
+    "source": "The money should still be on Nelson's body. And then there's these chems, which you'll need to sell somehow.",
+    "target": "Peníze by stále měly být u Nelsonovy mrtvoly. A pak jsou tu ty chemikálie, které budeš muset nějak prodat.",
+    "deepl": "Peníze by měly být stále na Nelsonově těle. A pak jsou tu ty chemikálie, které budeš muset nějak prodat.",
+    "lindat": "Peníze by pořád měly být na Nelsonově těle. A pak jsou tu ty chemikálie, které budete muset nějak prodat.",
+    "google": "Peníze by měly být stále na Nelsonově těle. A pak jsou tu tyto chemikálie, které budete muset nějak prodat."
+  },
+  {
+    "id": "miscmod_PA_X01_Helmet_Headlamp_Vaultboy/032443",
+    "source": "X-01 Headlamp VaultBoy",
+    "target": "X-01 - Vault Boy čelovka",
+    "deepl": "X-01 čelovka VaultBoy",
+    "lindat": "X-01 Světlomet VaultBoy",
+    "google": "Čelovka X-01 VaultBoy"
+  },
+  {
+    "id": "[0010C8EB]/01E6B3",
+    "source": "Now are you buying this room? Or not?",
+    "target": "A teď, chceš si pořídit ten pokoj? Nebo ne?",
+    "deepl": "Kupujete si tento pokoj? Nebo ne?",
+    "lindat": "A teď kupuješ tenhle pokoj? Nebo ne?",
+    "google": "Teď kupujete tento pokoj? Nebo ne?"
+  },
+  {
+    "id": "[0015FD7D]/01951D",
+    "source": "Thought you had more sense than this.",
+    "target": "Myslel jsem, že máš víc rozumu.",
+    "deepl": "Myslel jsem, že máš víc rozumu než tohle.",
+    "lindat": "Myslel jsem, že máš víc rozumu.",
+    "google": "Myslel jsem, že máš víc rozumu než tohle."
+  },
+  {
+    "id": "[001B5F46]/0309A2",
+    "source": "Kellogg",
+    "target": "Kellogg",
+    "deepl": "Kellogg",
+    "lindat": "Kellogg",
+    "google": "Kellogg"
+  },
+  {
+    "id": "[01023A54]/001DD6",
+    "source": "Oh well, then, I'm glad you brought the mainlander. Otherwise you'd be dead for sure.",
+    "target": "Tak to je dobře, že jsi s sebou vzala suchozemce. Jinak by bylo určitě po tobě.",
+    "deepl": "Tak to jsem ráda, že jsi přivedl pevninu. Jinak bys byl určitě mrtvý.",
+    "lindat": "Tak to jsem rád, že jste přivezli toho z pevniny. Jinak byste byli určitě mrtví.",
+    "google": "No, tak to jsem rád, že jsi přivedl pevninskou. Jinak bys byl určitě mrtvý."
+  },
+  {
+    "id": "[0003D1DA]/02A52B",
+    "source": "Good, good. There's too much information out there, and it mustn't go to waste.",
+    "target": "Dobře, dobře. Venku je příliš mnoho informací a nesmíme dopustit, aby přišly nazmar.",
+    "deepl": "Dobře, dobře. Informací je příliš mnoho a nesmí přijít nazmar.",
+    "lindat": "Dobře, dobře. Je tam příliš mnoho informací a nesmí přijít nazmar.",
+    "google": "Dobře dobře. Je tam příliš mnoho informací a ty nesmí přijít nazmar."
+  },
+  {
+    "id": "HumanRace/036635",
+    "source": "Trench Warfare",
+    "target": "Zákopová válka",
+    "deepl": "Zákopová válka",
+    "lindat": "Trench Warfare",
+    "google": "Zákopová válka"
+  },
+  {
+    "id": "[01042EB3]/00336C",
+    "source": "Come on, give us a break. That girl could be in trouble.",
+    "target": "Ale no tak, dej s tím pokoj. Ta dívka může být v problémech.",
+    "deepl": "No tak, dejte nám pokoj. Ta holka by mohla mít potíže.",
+    "lindat": "No tak, dej nám pokoj. Ta holka by mohla mít problémy.",
+    "google": "Pojď, dej nám pokoj. Ta dívka by mohla mít potíže."
+  },
+  {
+    "id": "[0003A4CF]/024537",
+    "source": "We got a case on his dissapearance. Vadim Bobrov over at the Dugout Inn didn't trust the official report. Hired us to get at the truth.",
+    "target": "Jde o případ jeho zmizení. Vadim Bobrov z hospody Na Střídačce nevěří oficiální verzi. Najal nás, abychom zjistili pravdu.",
+    "deepl": "Máme případ jeho zmizení. Vadim Bobrov v hostinci Dugout nevěřil oficiální zprávě. Najal si nás, abychom zjistili pravdu.",
+    "lindat": "Máme případ na jeho zmizení. Vadim Bobrov z hotelu Dugout nevěřil oficiální zprávě. Najal si nás, abychom se dozvěděli pravdu.",
+    "google": "Máme případ jeho zmizení. Vadim Bobrov v Dugout Inn oficiální zprávě nevěřil. Najali nás, abychom se dozvěděli pravdu."
+  },
+  {
+    "id": "DLC03HumanRaceAdditiveSubgraphData/001B86",
+    "source": "Gridiron",
+    "target": "Rošt",
+    "deepl": "Gridiron",
+    "lindat": "Gridiron",
+    "google": "Rošt"
+  },
+  {
+    "id": "DLC03_mod_RadiumRifle_Muzzle_Suppressor/0031E5",
+    "source": "Suppressor",
+    "target": "Tlumič",
+    "deepl": "Supresor",
+    "lindat": "Tlumič",
+    "google": "Tlumič"
+  },
+  {
+    "id": "DialogueInstShaunKidFaction006/035F40",
+    "source": "I used to live underground... and now I'm up in the sky!",
+    "target": "Předtím jsem bydlel v podzemí... a teď koukám na nebe!",
+    "deepl": "Dřív jsem žil pod zemí a teď jsem nahoře v oblacích!",
+    "lindat": "Kdysi jsem žil v podzemí... a teď jsem nahoře na nebi!",
+    "google": "Kdysi jsem žil pod zemí... a teď jsem nahoře v nebi!"
+  },
+  {
+    "id": "[00174AC0]/01BA7A",
+    "source": "No books here. Although, home construction has never been my area of expertise.",
+    "target": "Žádné knihy. I když, stavba domů nikdy nebyla můj obor.",
+    "deepl": "Žádné knihy zde nejsou. Ačkoli stavba domů nikdy nebyla mým oborem.",
+    "lindat": "Nejsou tu žádné knihy. I když stavba domů nikdy nebyla můj obor.",
+    "google": "Nejsou zde žádné knihy. I když stavba domů nikdy nebyla moje oblast působnosti."
+  },
+  {
+    "id": "[000F7899]/021E04",
+    "source": "I avoid ferals if I can help it.",
+    "target": "Pokud můžu, divokým se vyhýbám.",
+    "deepl": "Pokud mohu, divokým zvířatům se vyhýbám.",
+    "lindat": "Vyhýbám se divokým zvířatům, pokud tomu mohu pomoci.",
+    "google": "Vyhýbám se divokým, pokud tomu mohu pomoci."
+  },
+  {
+    "id": "DLC01COMRCrippled11/0001A4",
+    "source": "Head's been hit!",
+    "target": "Utržen zásah do hlavy!",
+    "deepl": "Hlava byla zasažena!",
+    "lindat": "Dostal to do hlavy!",
+    "google": "Byla zasažena hlava!"
+  },
+  {
+    "id": "DLC01Bot_Hand_Protectron_Melee_Claw_Left/000274",
+    "source": "Protectron Left Hand Claw",
+    "target": "Klepeto protektrona",
+    "deepl": "Protectron levý dráp",
+    "lindat": "Protectron Levá ruka dráp",
+    "google": "Dráp na levou ruku Protectron"
+  },
+  {
+    "id": "[01025FC2]/002044",
+    "source": "Eavesdropping on the next meeting sounds like our best bet. I already found the key to that room.",
+    "target": "Největší šanci asi budeme mít, když se nám podaří odposlechnout příští setkání. Už se mi podařilo najít od té místnosti klíč.",
+    "deepl": "Odposlouchávání příští schůzky se zdá být naší nejlepší volbou. Klíč od té místnosti jsem už našel.",
+    "lindat": "Odposlouchávání na další schůzce zní jako naše nejlepší sázka. Už jsem našel klíč od té místnosti.",
+    "google": "Odposlech dalšího setkání zní jako naše nejlepší sázka. Už jsem našel klíč od toho pokoje."
+  },
+  {
+    "id": "miscmod_DLC01Bot_Torso_Sentry_Armor_Construction09_Front/0013C0",
+    "source": "Sentry Front Voltaic Frame",
+    "target": "Strážní robot - elektrický rám (hruď)",
+    "deepl": "Přední voltaický rám Sentry",
+    "lindat": "Sentry Front Voltaic Frame",
+    "google": "Přední voltaický rám Sentry"
+  },
+  {
+    "id": "[0017D52D]/02EA91",
+    "source": "Well, there's a few shiesty folks around, but Goodneighbor a chance and she might surprise ya.",
+    "target": "No, je tu pár podrazáků, ale dej Dobrému Sousedství šanci a možná tě překvapí.",
+    "deepl": "No, je tu několik shiesty lidi kolem, ale Goodneighbor šanci a ona by mohla překvapit.",
+    "lindat": "No, je tu pár šikmookejch lidí, ale Šťastná sousedka má šanci a mohla by tě překvapit.",
+    "google": "No, kolem je pár hnusných lidí, ale Goodneighbor má šanci a možná tě překvapí."
+  },
+  {
+    "id": "[0010F146]/0220CC",
+    "source": "It's probably better if we just stay friends.",
+    "target": "Nejspíš bude lepší, když zůstaneme přáteli.",
+    "deepl": "Asi bude lepší, když zůstaneme přáteli.",
+    "lindat": "Asi bude lepší, když zůstaneme přáteli.",
+    "google": "Asi bude lepší, když zůstaneme jen přáteli."
+  },
+  {
+    "id": "[00138B95]/0128D4",
+    "source": "Not care how robots work. Just smash!",
+    "target": "Fuk, jak robot funguje. Jenom ničit!",
+    "deepl": "Nezajímat se o to, jak roboti fungují. Prostě rozbíjejte!",
+    "lindat": "Nezajímá mě, jak roboti pracují. Prostě rozbij!",
+    "google": "Nezáleží na tom, jak roboti fungují. Prostě rozbít!"
+  },
+  {
+    "id": "[001A9609]/030422",
+    "source": "We need to get out of here as quick as we can.",
+    "target": "Potřebujeme se odsud dostat co nejrychleji.",
+    "deepl": "Musíme se odsud dostat co nejrychleji.",
+    "lindat": "Musíme se odsud co nejrychleji dostat.",
+    "google": "Musíme se odsud dostat co nejrychleji."
+  },
+  {
+    "id": "AAA_mod_TEMPLATE_Muzzle_Camera_B/02C9C6",
+    "source": "Quantum Gyro Compensating Lens",
+    "target": "Kvantogyroskopické čočky",
+    "deepl": "Objektiv s kompenzací gyroskopu Quantum",
+    "lindat": "Kompenzační objektiv Quantum Gyro",
+    "google": "Kompenzační čočka Quantum Gyro"
+  },
+  {
+    "id": "[0012095D]/01E7AC",
+    "source": "No, sir, I do. I have a feeling it's the only way I'll get through.",
+    "target": "Ne, pane, musím. Mám pocit, že je to jediný způsob, jak se přes to dostat.",
+    "deepl": "Ne, pane, já ano. Mám pocit, že je to jediný způsob, jak se z toho dostat.",
+    "lindat": "Ne, pane, já ano. Mám pocit, že je to jediný způsob, jak se tam dostanu.",
+    "google": "Ne, pane, chci. Mám pocit, že je to jediný způsob, jak se přes to dostat."
+  },
+  {
+    "id": "[0015E967]/01C6C1",
+    "source": "What are you offering, exactly?",
+    "target": "Co přesně mi nabízíš?",
+    "deepl": "Co přesně nabízíte?",
+    "lindat": "Co přesně nabízíte?",
+    "google": "Co přesně nabízíš?"
+  },
+  {
+    "id": "[01049656]/003F5D",
+    "source": "There's no point in arguing anymore. Just leave!",
+    "target": "Už nemá cenu se dohadovat. Prostě odejdi!",
+    "deepl": "Už nemá smysl se hádat. Prostě odejděte!",
+    "lindat": "Nemá smysl se dál hádat. Odejděte!",
+    "google": "Už nemá smysl se hádat. Prostě odejdi!"
+  },
+  {
+    "id": "[01010266]/00173E",
+    "source": "While there's only a 78.3% chance that I'm correct, I'd like to point out that it's the only lead we have.",
+    "target": "I když je šance, že mám pravdu pouze 78,3 %, chtěla bych poukázat na to, že je to jediné vodítko, které máme.",
+    "deepl": "Ačkoli je šance, že se nemýlím, pouze 78,3 %, rád bych zdůraznil, že je to jediné vodítko, které máme.",
+    "lindat": "I když je jen 78,3% šance, že mám pravdu, rád bych zdůraznil, že je to jediná stopa, kterou máme.",
+    "google": "I když existuje pouze 78,3% šance, že mám pravdu, rád bych poukázal na to, že je to jediná stopa, kterou máme."
+  },
+  {
+    "id": "[010048E2]/00024E",
+    "source": "Give the Overseer's question some thought and really answer it.",
+    "target": "Promysli si správcovu otázku a popravdě na ni odpověz.",
+    "deepl": "Zamyslete se nad dozorcovou otázkou a skutečně na ni odpovězte.",
+    "lindat": "Přemýšlejte o otázce Dozorce a opravdu na ni odpovězte.",
+    "google": "Zamyslete se nad otázkou dozorce a skutečně na ni odpovězte."
+  },
+  {
+    "id": "DLC04_RQ_Nisha_Another02/00313E",
+    "source": "I got another job for you, if you're interested.",
+    "target": "Mám pro tebe další práci, jestli máš zájem.",
+    "deepl": "Mám pro tebe další práci, jestli máš zájem.",
+    "lindat": "Mám pro tebe další práci, jestli máš zájem.",
+    "google": "Mám pro tebe jinou práci, jestli máš zájem."
+  },
+  {
+    "id": "[00222C21]/0342BC",
+    "source": "I can't believe Danse was a synth... I mean, I can, because, you know, I've heard him speak.",
+    "target": "Nemůžu uvěřit, že byl Danse syntetik... chci říct, můžu, protože, víš jak, slyšela jsem ho mluvit.",
+    "deepl": "Nemůžu uvěřit, že Danse byl syntezátor... Teda, já můžu, protože jsem ho slyšel mluvit.",
+    "lindat": "Nemůžu uvěřit, že Danse byl synth... Teda, můžu, protože, víš, slyšel jsem ho mluvit.",
+    "google": "Nemůžu uvěřit, že Danse byl syntezátor... Chci říct, můžu, protože, víte, slyšel jsem ho mluvit."
+  },
+  {
+    "id": "[000DF2D9]/02453F",
+    "source": "Plan B",
+    "target": "Plán B",
+    "deepl": "Plán B",
+    "lindat": "Plán B",
+    "google": "Plán B"
+  },
+  {
+    "id": "HumanRace/0365FA",
+    "source": "Mud And Blood",
+    "target": "Krev a bláto",
+    "deepl": "Bahno a krev",
+    "lindat": "Mud And Blood",
+    "google": "Bahno A Krev"
+  },
+  {
+    "id": "[01025AFC]/002509",
+    "source": "I took 'em apart and made a little something different out of the parts. Was just going to be a toy for my pets. But it's more useful than that.",
+    "target": "No, rozebral jsem je a z jejich částí udělal něco trošku jinýho. Měla to být pro moji smečku hračka, ale takhle to je mnohem užitečnější.",
+    "deepl": "Rozebral jsem je a z dílů vyrobil něco trochu jiného. Měla to být jen hračka pro mé domácí mazlíčky. Ale je to užitečnější.",
+    "lindat": "Rozebral jsem je a vyrobil z těch součástek něco trochu jiného. Měla to být jen hračka pro mé mazlíčky. Ale je to užitečnější než tohle.",
+    "google": "Rozebral jsem je a udělal z dílů něco jiného. Bude to jen hračka pro moje mazlíčky. Ale je to užitečnější než to."
+  },
+  {
+    "id": "[0018472B]/0209C9",
+    "source": "All right. I'll keep waiting.",
+    "target": "Dobrá. Budu čekat.",
+    "deepl": "Dobře. Budu čekat.",
+    "lindat": "Dobře. Budu čekat dál.",
+    "google": "Dobře. Budu čekat dál."
+  },
+  {
+    "id": "[0011E2E3]/016AE0",
+    "source": "Lead, human.",
+    "target": "Ty vést, člověče.",
+    "deepl": "Olovo, člověk.",
+    "lindat": "Olovo, člověk.",
+    "google": "Olovo, člověče."
+  },
+  {
+    "id": "[0010BC66]/01829C",
+    "source": "And where are the crowds? People here seem to have little interest in history.",
+    "target": "A kde jsou ty davy? Vypadá to, že místní lidé nemají skoro vůbec zájem o historii.",
+    "deepl": "A kde jsou ty davy? Zdá se, že lidé zde mají o historii malý zájem.",
+    "lindat": "A kde jsou davy? Zdejší lidé se o historii příliš nezajímají.",
+    "google": "A kde jsou davy? Zdá se, že lidé zde nemají o historii velký zájem."
+  },
+  {
+    "id": "[0003E2E1]/02A628",
+    "source": "I do wish you would remember to dress for dinner more often. We do have standards to maintain in this family.",
+    "target": "Přála bych si, aby sis vzpomněl častěji, jak se obléci k večeři. V této rodině máme standardy, které je třeba dodržovat.",
+    "deepl": "Přála bych si, abys nezapomínal oblékat se k večeři častěji. V naší rodině musíme dodržovat normy.",
+    "lindat": "Přál bych si, aby ses na večeři oblékala častěji. V téhle rodině musíme dodržovat určité normy.",
+    "google": "Přál bych si, aby sis pamatoval oblékat se na večeři častěji. V této rodině máme normy, které musíme dodržovat."
+  },
+  {
+    "id": "AAA_mod_TEMPLATE_Barrel_LightLong/02CE9F",
+    "source": "Long Light Barrel",
+    "target": "Dlouhá lehká hlaveň",
+    "deepl": "Dlouhá lehká hlaveň",
+    "lindat": "Long Light Barrel",
+    "google": "Dlouhá lehká hlaveň"
+  },
+  {
+    "id": "[01000DB6]/0001A5",
+    "source": "Self-destruct sequence activated.",
+    "target": "Autodestrukční sekvence aktivována.",
+    "deepl": "Aktivována sebedestrukční sekvence.",
+    "lindat": "Autodestrukční sekvence aktivována.",
+    "google": "Aktivována autodestrukční sekvence."
   }
 ]

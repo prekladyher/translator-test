@@ -1,0 +1,402 @@
+[
+  {
+    "id": "[0010BAE2]/01B530",
+    "source": "Sensors result no enemies. The threat is over.",
+    "target": "Senzory nezaznamenávají žádné nepřátele. Hrozba pominula.",
+    "deepl": "Senzory nemají za následek žádné nepřátele. Hrozba je zažehnána.",
+    "lindat": "Senzory nezískaly žádné nepřátele. Hrozba je zažehnána.",
+    "google": "Senzory nemají žádné nepřátele. Hrozba skončila."
+  },
+  {
+    "id": "[00096D85]/012863",
+    "source": "Avoid the question",
+    "target": "Vyhnout se otázce",
+    "deepl": "Vyhněte se otázce",
+    "lindat": "Vyhněte se otázce",
+    "google": "Vyhněte se otázce"
+  },
+  {
+    "id": "[000CF2D5]/0199A1",
+    "source": "The Signal Interceptor's ready. Are you?",
+    "target": "Zachycovač signálu je připravený. Co ty?",
+    "deepl": "Zachycovač signálů je připraven. A vy?",
+    "lindat": "Signal Interceptor je připraven. A ty?",
+    "google": "Zachycovač signálu je připraven. Jsi ty?"
+  },
+  {
+    "id": "[001AC51C]/02F719",
+    "source": "His last words were \"I really wish I would have trusted my elders.\"",
+    "target": "Jeho poslední slova byla: „Kéž bych býval věřil starším.“",
+    "deepl": "Jeho poslední slova zněla: \"Opravdu bych si přál, abych věřil starším.\"",
+    "lindat": "Jeho poslední slova byla „Opravdu bych si přál, abych věřil svým starším“.",
+    "google": "Jeho poslední slova byla: \"Opravdu bych si přál, abych věřil svým starším.\""
+  },
+  {
+    "id": "[0017EDB9]/01EE7E",
+    "source": "Don't despair, sister! We're here to save the Commonwealth.",
+    "target": "Nezoufej, sestro! Jsme tu, abychom zachránili Commonwealth.",
+    "deepl": "Nezoufej, sestro! Jsme tu, abychom zachránili Společenství.",
+    "lindat": "Nezoufej, sestro! Jsme tu, abychom zachránili Společenství.",
+    "google": "Nezoufej, sestro! Jsme tu, abychom zachránili Commonwealth."
+  },
+  {
+    "id": "[000B2F27]/0150D5",
+    "source": "Prime's Weapons",
+    "target": "Zbraně Pěsti",
+    "deepl": "Zbraně Prime",
+    "lindat": "Prime's Weapons",
+    "google": "Primeovy zbraně"
+  },
+  {
+    "id": "[00190E00]/028D35",
+    "source": "Whatever. I'll do what I want.",
+    "target": "Je mi to šumák. Budu si dělat, co chci.",
+    "deepl": "To je jedno. Budu si dělat, co chci.",
+    "lindat": "To je fuk. Budu si dělat, co chci.",
+    "google": "To je jedno. Budu dělat, co chci."
+  },
+  {
+    "id": "[001188A3]/023C59",
+    "source": "Yes",
+    "target": "Ano",
+    "deepl": "Ano",
+    "lindat": "Ano",
+    "google": "Ano"
+  },
+  {
+    "id": "[001866AC]/01DF2D",
+    "source": "We'll that's all I can really expect.",
+    "target": "No, nic víc přece ani očekávat nemůžu.",
+    "deepl": "To je vše, co mohu očekávat.",
+    "lindat": "To je vše, co mohu skutečně očekávat.",
+    "google": "To je vše, co mohu opravdu očekávat."
+  },
+  {
+    "id": "[0014E580]/01EFE0",
+    "source": "It was good to see you again. ",
+    "target": "Rád jsem tě znovu viděl.",
+    "deepl": "Rád jsem tě zase viděl.",
+    "lindat": "Rád jsem tě zase viděl.",
+    "google": "Bylo fajn tě znovu vidět."
+  },
+  {
+    "id": "[001A9704]/02FBB6",
+    "source": "I find these traveling arrangements quite acceptable.",
+    "target": "Shledávám tyhle cestovní diskuze celkem přijatelnými.",
+    "deepl": "Tato cestovní opatření považuji za přijatelná.",
+    "lindat": "Tato cestovní opatření považuji za celkem přijatelná.",
+    "google": "Tyto cesty považuji za docela přijatelné."
+  },
+  {
+    "id": "[0103DB19]/0031A2",
+    "source": "Oof!",
+    "target": "Uuf!",
+    "deepl": "Uf!",
+    "lindat": "Oof!",
+    "google": "Uf!"
+  },
+  {
+    "id": "[000BA870]/019907",
+    "source": "A chance? Hm.",
+    "target": "Šanci? Hm.",
+    "deepl": "Šance? Hm.",
+    "lindat": "Šanci? Hm.",
+    "google": "Šance? Hm."
+  },
+  {
+    "id": "DLC01PowerArmorRaceAdditiveSubGraphData/00111D",
+    "source": "Temple",
+    "target": "Temple",
+    "deepl": "Chrám",
+    "lindat": "Chrám",
+    "google": "Chrám"
+  },
+  {
+    "id": "[001AC679]/02F52D",
+    "source": "Without your help, Austin would be dead. Thank you.",
+    "target": "Bez tvojí pomoci by byl Austin po smrti. Díky.",
+    "deepl": "Bez vaší pomoci by byl Austin mrtvý. Děkujeme.",
+    "lindat": "Bez vaší pomoci by byl Austin mrtvý. Děkuji.",
+    "google": "Bez vaší pomoci by byl Austin mrtvý. Děkuji."
+  },
+  {
+    "id": "PlayerHouse_Rug01/03570C",
+    "source": "Rug",
+    "target": "Koberec",
+    "deepl": "Koberec",
+    "lindat": "Koberec",
+    "google": "Koberec"
+  },
+  {
+    "id": "abReduceCharismaAlcoholAddiction/01571E",
+    "source": "+<mag> Strength",
+    "target": "+<mag> k síle",
+    "deepl": "+<mag> Síla",
+    "lindat": "+<mag> Síla",
+    "google": "+<mag> Síla"
+  },
+  {
+    "id": "[01048693]/003D55",
+    "source": "There's nothing inherently wrong with protecting your own interests.",
+    "target": "Na tom přece není nic z podstaty špatného, chránit svoje zájmy",
+    "deepl": "Na ochraně vlastních zájmů není ze své podstaty nic špatného.",
+    "lindat": "Na ochraně vlastních zájmů není z podstaty nic špatného.",
+    "google": "Na ochraně vlastních zájmů není nic špatného."
+  },
+  {
+    "id": "[001A0D47]/030729",
+    "source": "I'll be honest, I'm still trying to figure you out. But I haven't given up on you, if that's what you're asking.",
+    "target": "Budu upřímný... stále si na tebe snažím udělat názor. Zatím jsem na tebe nezanevřel, jestli je to to, na co se ptáš.",
+    "deepl": "Budu upřímný, stále se tě snažím pochopit. Ale nevzdal jsem to, jestli se ptáš na tohle.",
+    "lindat": "Budu upřímný, pořád se ti snažím přijít na kloub. Ale nevzdal jsem to s tebou, jestli se ptáš na tohle.",
+    "google": "Budu upřímný, pořád se tě snažím zjistit. Ale nevzdal jsem se tě, jestli se na to ptáš."
+  },
+  {
+    "id": "[0017FC01]/01C3CB",
+    "source": "They weren't as advanced as the Prydwen, mind you... but seeing them fill the sky must have been an impressive sight.",
+    "target": "Nebyly tak pokročilé jako Prydwen, to se ví... ale vidět, jak zaplňují celou oblohu, to musel být úžasný pohled.",
+    "deepl": "Nebyli tak vyspělí jako Prydweni, ale vidět je, jak zaplňují oblohu, musel být impozantní pohled.",
+    "lindat": "Nebyli tak vyspělí jako Prydwenové, to si pište... ale vidět je vyplňovat oblohu musel být působivý pohled.",
+    "google": "Nebyli tak vyspělí jako Prydwen, uvědomte si... ale vidět je zaplnit oblohu musel být působivý pohled."
+  },
+  {
+    "id": "PA_X01_Arm_Lining_C/01CD6C",
+    "source": "Mk.III",
+    "target": "Model Mk. III",
+    "deepl": "Mk.III",
+    "lindat": "Mk.III",
+    "google": "Mk.III"
+  },
+  {
+    "id": "DN049_Bake_Note03/0251C5",
+    "source": "Bakery Ticket",
+    "target": "Lístek z pekařství",
+    "deepl": "Vstupenka do pekárny",
+    "lindat": "Lístek do pekárny",
+    "google": "Lístek do pekárny"
+  },
+  {
+    "id": "[00133897]/02486A",
+    "source": "Go ahead and waste my time then. Geez.",
+    "target": "Nemám nic lepšího než s tebou ztrácet čas. Jéžiš.",
+    "deepl": "Pak tedy pokračujte a plýtvejte mým časem. Ježíšmarjá.",
+    "lindat": "Tak do toho a plýtvej mým časem. Bože.",
+    "google": "Tak jdi a plýtvej mým časem. Bože."
+  },
+  {
+    "id": "MS09SharedPlayerEndNotMyFault/0135D9",
+    "source": "I wasn't the cause of any of this.",
+    "target": "Nic z toho není moje vina.",
+    "deepl": "Nic z toho jsem nezpůsobil.",
+    "lindat": "Nic z toho jsem nezpůsobil.",
+    "google": "Nebyl jsem příčinou ničeho z toho."
+  },
+  {
+    "id": "L_BIPED_NO_CC/00036D",
+    "source": "We need this to allow collision with the actor's ragdoll instead of its character controller.",
+    "target": "We need this to allow collision with the actor's ragdoll instead of its character controller.",
+    "deepl": "Potřebujeme to, abychom umožnili kolizi s ragdoll herce místo s jeho ovladačem postavy.",
+    "lindat": "Potřebujeme to, abychom umožnili kolizi s hercovým ragdollem místo jeho ovladačem postavy.",
+    "google": "Potřebujeme to, abychom umožnili kolizi s hercovým ragdollem místo ovladače jeho postavy."
+  },
+  {
+    "id": "[001AB2DB]/02FA21",
+    "source": "Please, only one flyer per customer. Limited printing is how we keep costs down, and we pass those savings on to you, customer!",
+    "target": "Prosím, pouze jeden leták na zákazníka. Omezený tisk je způsob, kterým držíme ceny dole, a tyto úspory pak přenášíme na vás, zákazníka!",
+    "deepl": "Prosím, pouze jeden leták na zákazníka. Omezený tisk je způsob, jak udržet náklady na nízké úrovni a přenést tyto úspory na vás, zákazníky!",
+    "lindat": "Prosím, jen jeden leták na zákazníka. Omezený tisk nám snižuje náklady a tyto úspory přenášíme na vás, zákazníku!",
+    "google": "Prosím, pouze jeden leták na zákazníka. Omezený tisk je způsob, jak udržujeme náklady na nízké úrovni a tyto úspory předáváme vám, zákazníkům!"
+  },
+  {
+    "id": "MQ102SturgesTerminalSubTerminal01/026DB6",
+    "source": "Anchorage Exhibit",
+    "target": "Výstava o Anchorage",
+    "deepl": "Výstava v Anchorage",
+    "lindat": "Ukázka z Anchorage",
+    "google": "Anchorage Exponát"
+  },
+  {
+    "id": "[00034673]/015A38",
+    "source": "It ain't like that. I'm just here to deliver a message.",
+    "target": "Tak to není. Jsem tu jen, abych doručil zprávu.",
+    "deepl": "Tak to není. Jsem tu jen proto, abych doručil zprávu.",
+    "lindat": "Tak to není. Jsem tu jen, abych doručil vzkaz.",
+    "google": "Tak to není. Jsem tady, abych doručil zprávu."
+  },
+  {
+    "id": "[000E1A14]/01793F",
+    "source": "The Shroud's supposed to be a hero. Not a villain.",
+    "target": "Rubáš by měl být hrdina. Ne padouch.",
+    "deepl": "Plášť má být hrdina. Ne padouch.",
+    "lindat": "Rubáš má být hrdina. Ne padouch.",
+    "google": "Shroud má být hrdina. Ne padouch."
+  },
+  {
+    "id": "[001946D3]/02E8AF",
+    "source": "Who's that?",
+    "target": "Kdo to je?",
+    "deepl": "Kdo je to?",
+    "lindat": "Kdo je to?",
+    "google": "Kdo je to?"
+  },
+  {
+    "id": "[000BAF72]/018474",
+    "source": "General, when you see those shells raining down on our enemies... well, you'll know it was worth it.",
+    "target": "Generále, až uvidíš ty granáty pršet na naše nepřátele... inu, poznáš, že to stálo za to.",
+    "deepl": "Generále, až uvidíte, jak ty střely padají na naše nepřátele... no, budete vědět, že to stálo za to.",
+    "lindat": "Generále, až uvidíte, jak ty granáty dopadají na naše nepřátele, budete vědět, že to stálo za to.",
+    "google": "Generále, až uvidíte ty granáty pršet na naše nepřátele... no, budete vědět, že to stálo za to."
+  },
+  {
+    "id": "[000FAEC5]/012BC2",
+    "source": "Are we done?",
+    "target": "Skončili jsme?",
+    "deepl": "Skončili jsme?",
+    "lindat": "Skončili jsme?",
+    "google": "jsme hotovi?"
+  },
+  {
+    "id": "[000F0DD1]/01FF03",
+    "source": "We've since cleaned it up and... dealt with the criminal, but I wouldn't be at all surprised if it was some sort of Railroad propaganda.",
+    "target": "Už jsme to vyčistili a... postarali se o toho kriminálníka, ale ani v nejmenším by mě nepřekvapilo, kdyby šlo o nějakou propagandu Železnice.",
+    "deepl": "Od té doby jsme to uklidili a... vypořádali se s kriminálníkem, ale vůbec bych se nedivil, kdyby to byla nějaká železniční propaganda.",
+    "lindat": "Od té doby jsme to uklidili a... vypořádali se se zločincem, ale vůbec by mě nepřekvapilo, kdyby to byla nějaká propaganda Železnice.",
+    "google": "Od té doby jsme to uklidili a... vypořádali se s tím zločincem, ale vůbec bych se nedivil, kdyby to byla nějaká železniční propaganda."
+  },
+  {
+    "id": "[0011F771]/01A874",
+    "source": "Hah! A good death. Strong like.",
+    "target": "Ha! Dobrá smrt. Silák líbit.",
+    "deepl": "Hah! Dobrá smrt. Silná jako.",
+    "lindat": "Ha! Dobrá smrt. Silná jako.",
+    "google": "Cha! Dobrá smrt. Silný jako."
+  },
+  {
+    "id": "[00181A34]/01B9BA",
+    "source": "Goodness. They've got this locked down tighter than a... hmm...",
+    "target": "Božínku. Ti to zamknuli líp než... hmm...",
+    "deepl": "Dobrý den. Mají to pod zámkem pevněji než... hmm...",
+    "lindat": "Proboha. Mají to zamčený pevněji než... hmm...",
+    "google": "Dobrota. Mají to zamčené pevněji než... hmm..."
+  },
+  {
+    "id": "[0100495C]/00018F",
+    "source": "You have a deal",
+    "target": "Dohodnuto",
+    "deepl": "Máte dohodu",
+    "lindat": "Máte dohodu.",
+    "google": "Máte dohodu"
+  },
+  {
+    "id": "[0019058C]/02EEFE",
+    "source": "Says you.",
+    "target": "To říkáš ty.",
+    "deepl": "Říkáte vy.",
+    "lindat": "To říkáš ty.",
+    "google": "Říkáš ty."
+  },
+  {
+    "id": "[0017EF7F]/01D757",
+    "source": "You don't think those buttons will pump anything in here, right?",
+    "target": "Nemyslíš, že by to tu nějaký z těch tlačítek mělo něčím napustit, že ne?",
+    "deepl": "Nemyslíš si, že tyhle knoflíky tady něco napumpují, že ne?",
+    "lindat": "Nemyslíš si, že ty knoflíky sem něco napumpují, že ne?",
+    "google": "Myslíš, že sem ty tlačítka nic nenapumpují, že?"
+  },
+  {
+    "id": "[00183D26]/0132B2",
+    "source": "The Minutemen remind me of the Brotherhood when Elder Lyons was in charge... unfocused and far too charitable for their own good.",
+    "target": "Minutemani mi připomínají Bratrstvo z doby, kdy mu velel starší Lyons... nesoustředěné a vzhledem k jejich zájmům až přespříliš štědré.",
+    "deepl": "Minutmani mi připomínají Bratrstvo, když mu šéfoval starší Lyons... nesoustředění a příliš dobročinní pro své vlastní dobro.",
+    "lindat": "Minutemani mi připomínají Bratrstvo, když byl ve vedení Elder Lyons... nesoustředěný a příliš dobrosrdečný pro jejich vlastní dobro.",
+    "google": "Minutemani mi připomínají Bratrstvo, když byl starší Lyons ve vedení... nesoustředěný a až příliš dobročinný pro jejich vlastní dobro."
+  },
+  {
+    "id": "[000AC939]/02CCC8",
+    "source": "Neither do I, Priscilla. ",
+    "target": "Ani já ne, Priscillo.",
+    "deepl": "Já také ne, Priscillo.",
+    "lindat": "Já taky ne, Priscillo.",
+    "google": "Já taky ne, Priscillo."
+  },
+  {
+    "id": "[0100AA4B]/0016E9",
+    "source": "Yes, big hero.",
+    "target": "Jasně, jsi fakt hrdina.",
+    "deepl": "Ano, velký hrdina.",
+    "lindat": "Ano, velký hrdino.",
+    "google": "Ano, velký hrdina."
+  },
+  {
+    "id": "AmmoGammaCell/018FEC",
+    "source": "Gamma Round",
+    "target": "G článek",
+    "deepl": "Kruhové kolo Gamma",
+    "lindat": "Gama kolo",
+    "google": "Gamma kolo"
+  },
+  {
+    "id": "[0101D1F0]/000C53",
+    "source": "And... the skull. It can't be...",
+    "target": "A... ta lebka. To nemůže být...",
+    "deepl": "A... lebka. To nemůže být...",
+    "lindat": "A... lebka. To nemůže být...",
+    "google": "A... lebka. To nemůže být..."
+  },
+  {
+    "id": "[01024F97]/001E7A",
+    "source": "There is evidence that someone may be amassing a group of synths up the coast.",
+    "target": "Podle všeho někdo shromažďuje na ostrově skupinu syntetiků.",
+    "deepl": "Existují důkazy, že někdo na pobřeží shromažďuje skupinu synthů.",
+    "lindat": "Existují důkazy, že někdo může shromažďovat skupinu synthů na pobřeží.",
+    "google": "Existují důkazy, že někdo možná shromažďuje skupinu syntezátorů na pobřeží."
+  },
+  {
+    "id": "[000AB329]/01BFE2",
+    "source": "You must be Ronnie Shaw, from the radio.",
+    "target": "Ty musíš být Ronnie Shawová, ta z rádia.",
+    "deepl": "Vy musíte být Ronnie Shaw z rádia.",
+    "lindat": "Vy musíte být Ronnie Shaw z rádia.",
+    "google": "Vy musíte být Ronnie Shaw z rádia."
+  },
+  {
+    "id": "[001069D1]/01F197",
+    "source": "He bought them fair and square, Trudy! Ain't our fault if he's strung out.",
+    "target": "Koupil je bez jakejchkoliv leváren, Trudy! Není naše vina, že se na nich stal závislej.",
+    "deepl": "Koupil je poctivě, Trudy! Není naše chyba, že je na drogách.",
+    "lindat": "Koupil je poctivě a poctivě, Trudy! Není to naše chyba, jestli je napruženej.",
+    "google": "Koupil je poctivě a poctivě, Trudy! Není to naše vina, když je napnutý."
+  },
+  {
+    "id": "DN035_RobotControlTerminal/02DD23",
+    "source": "Disable Combat Inhibitors",
+    "target": "Zakázat bojové inhibitory",
+    "deepl": "Zakázat bojové inhibitory",
+    "lindat": "Zakázat bojové inhibitory",
+    "google": "Zakázat bojové inhibitory"
+  },
+  {
+    "id": "[000EEC57]/01581D",
+    "source": "From what she told me it sounds just... horrible. Just horrible.",
+    "target": "Z toho, co mi vyprávěla, to zní... příšerně. Prostě příšerně.",
+    "deepl": "Z toho, co mi řekla, to zní prostě... hrozně. Prostě strašně.",
+    "lindat": "Podle toho, co mi řekla, to zní hrozně. Prostě hrozně.",
+    "google": "Podle toho, co mi řekla, to zní prostě... strašně. Prostě hrůza."
+  },
+  {
+    "id": "[0005BC97]/02AD88",
+    "source": "Settle down",
+    "target": "Uklidni se",
+    "deepl": "Uklidněte se",
+    "lindat": "Uklidněte se",
+    "google": "Usadit se"
+  },
+  {
+    "id": "[0006F162]/019F5B",
+    "source": "Scared, just like a little bitch.",
+    "target": "Bojíš se... přesně jako malá čubka.",
+    "deepl": "Vyděšená, jako malá mrcha.",
+    "lindat": "Vystrašená, jako malá děvka.",
+    "google": "Vyděšená, jako malá děvka."
+  }
+]
