@@ -3,60 +3,70 @@
     "id": "MQ101PlayerCommentWasher/02180D",
     "source": "Washer",
     "target": "Pračka",
-    "deepl": "Podložka"
+    "deepl": "Podložka",
+    "lindat": "Podložka"
   },
   {
     "id": "[01005C59]/000410",
     "source": "Rent Room (<Global=ServiceCostRentRoom> Caps)",
     "target": "Pronajmout místnost (<Global=ServiceCostRentRoom> zátek)",
-    "deepl": "Pronájem místnosti (<Global=ServiceCostRentRoom> Caps)"
+    "deepl": "Pronájem místnosti (<Global=ServiceCostRentRoom> Caps)",
+    "lindat": "Nájemní pokoj (<Global=ServiceCostRentRoom> Caps)"
   },
   {
     "id": "TrainingLK03/01DBA5",
     "source": "Luck is a measure of your general good fortune, and affects the recharge rate of Critical Hits. Now you instantly gain 1 point!",
     "target": "Štěstí je mírou celkové přízně tvého osudu a ovlivňuje rychlost dobíjení kritických zásahů. Nyní okamžitě získáváš 1 bod!",
-    "deepl": "Štěstí je měřítkem vašeho obecného štěstí a ovlivňuje míru dobíjení kritických zásahů. Nyní okamžitě získáte 1 bod!"
+    "deepl": "Štěstí je měřítkem vašeho obecného štěstí a ovlivňuje míru dobíjení kritických zásahů. Nyní okamžitě získáte 1 bod!",
+    "lindat": "Štěstí je měřítkem vašeho všeobecného štěstí a ovlivňuje rychlost dobíjení Critical Hits. Nyní okamžitě získáváte 1 bod!"
   },
   {
     "id": "[0017C2D4]/02ECD9",
     "source": "Damn, well, if you happen to get some... don't forget about your new pal Bobby here.",
     "target": "Zatraceně, no, pokud budeš něco mít... nezapomeň na svého nového kámoše Bobbyho.",
-    "deepl": "Sakra, no, kdybys náhodou nějaký dostal... nezapomeň na svého nového kamaráda Bobbyho."
+    "deepl": "Sakra, no, kdybys náhodou nějaký dostal... nezapomeň na svého nového kamaráda Bobbyho.",
+    "lindat": "Sakra, no, kdybys náhodou nějaký dostal... nezapomeň tady na svýho novýho kámoše Bobbyho."
   },
   {
     "id": "[0104D6F6]/004511",
     "source": "That's what this is to you? You're sick...",
     "target": "Takže takhle to vnímáš? Jsi nemocný...",
-    "deepl": "Tohle je pro tebe tohle? Jsi nemocný..."
+    "deepl": "Tohle je pro tebe tohle? Jsi nemocný...",
+    "lindat": "To je pro tebe? Jsi nemocný..."
   },
   {
     "id": "[01036F8F]/003F1D",
     "source": "Colter thought some sort of rule or code made him untouchable... but he found out he was wrong... the hard way.",
     "target": "Colter si myslel, že ho nějaká pravidla činí nedotknutelným. Ale zjistil, že tomu tak není... a tvrdě na to doplatil.",
-    "deepl": "Colter si myslel, že ho nějaké pravidlo nebo kodex činí nedotknutelným... ale zjistil, že se mýlí... a to velmi tvrdě."
+    "deepl": "Colter si myslel, že ho nějaké pravidlo nebo kodex činí nedotknutelným... ale zjistil, že se mýlí... a to velmi tvrdě.",
+    "lindat": "Colter si myslel, že ho nějaké pravidlo nebo kodex dělá nedotknutelným... ale zjistil, že se mýlí... po zlém."
   },
   {
     "id": "[0013A269]/02D108",
     "source": "And he's not so bad to look at, either.",
     "target": "A ani se na něj nekouká dvakrát špatně.",
-    "deepl": "A ani na pohled není špatný."
+    "deepl": "A ani na pohled není špatný.",
+    "lindat": "A není tak špatný na pohled, a to buď."
   },
   {
     "id": "miscmod_mod_PipeRevolver_Scope_ScopeLong_NV/028EAF",
     "source": "Pipe Revolver Long Night Vision Scope",
     "target": "Trubkový revolver - dlouhá noční optika",
-    "deepl": "Trubkový revolver s dlouhým dalekohledem pro noční vidění"
+    "deepl": "Trubkový revolver s dlouhým dalekohledem pro noční vidění",
+    "lindat": "Pipe Revolver Long Night Vision Scope"
   },
   {
     "id": "[0016AA3C]/01CFA4",
     "source": "It might be smarter to see if we can talk our way out of this first.",
     "target": "Možná bude lepší nejdřív zkusit, jestli se z toho nemůžeme vykecat.",
-    "deepl": "Možná by bylo rozumnější zjistit, jestli se z toho můžeme nejprve vymluvit."
+    "deepl": "Možná by bylo rozumnější zjistit, jestli se z toho můžeme nejprve vymluvit.",
+    "lindat": "Možná by bylo chytřejší zkusit, jestli se z toho nejdřív nevykecáme."
   },
   {
     "id": "aaCharGenLoad2/032729",
     "source": "On the morning of Saturday, October 23, 2077 America was consumed by the flames of nuclear war. The war with China had finally reached its cataclysmic conclusion. ",
     "target": "Jednoho sobotního rána, 23. října 2077, byla Amerika pohlcena plameny nukleární války. Válka s Čínou konečně dosáhla svého katastrofického vyústění.",
-    "deepl": "V sobotu 23. října 2077 ráno zachvátily Ameriku plameny jaderné války. Válka s Čínou konečně dospěla ke svému kataklyzmatickému závěru."
+    "deepl": "V sobotu 23. října 2077 ráno zachvátily Ameriku plameny jaderné války. Válka s Čínou konečně dospěla ke svému kataklyzmatickému závěru.",
+    "lindat": "V sobotu 23. října 2077 ráno pohltily Ameriku plameny jaderné války. Válka s Čínou konečně dospěla ke kataklyzmatickému závěru."
   }
 ]
