@@ -19,7 +19,7 @@ async function writeOutput(data) {
 }
 
 program
-  .name("asd")
+  .name("translation units extraction")
   .option("-o, --output <path>", "output file");
 
 program

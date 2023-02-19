@@ -8,6 +8,8 @@ export interface TranslationUnit {
 
   source: string,
 
-  target: string
+  target: string,
+
+  [other: string]: string
 
 }
