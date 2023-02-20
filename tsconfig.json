@@ -2,7 +2,10 @@
   "extends": "@vue/tsconfig/tsconfig.json",
   "compilerOptions": {
     "allowJs": true,
-    "noEmit": true
+    "noEmit": true,
+    "paths": {
+      "@/*": ["./*"],
+    }
   },
   "include": [
     "scripts/*.js",

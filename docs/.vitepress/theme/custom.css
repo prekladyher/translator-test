@@ -1,0 +1,7 @@
+.VPImage.logo {
+  filter: saturate(0);
+}
+
+.dark .VPImage.logo {
+  filter: none;
+}

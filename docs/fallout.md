@@ -1,11 +1,11 @@
 <script setup>
-import CompareData from "../components/CompareData.vue"
-import units_01 from "../data/fallout4-01.json";
-import units_02 from "../data/fallout4-02.json";
-import units_03 from "../data/fallout4-03.json";
+import CompareData from "@/components/CompareData.vue"
+import units_01 from "@/data/fallout4-01.json";
+import units_02 from "@/data/fallout4-02.json";
+import units_03 from "@/data/fallout4-03.json";
 </script>
 
-# Fallout 4
+# Náhodný výběr &ndash; Fallout 4
 
 ## Testovací sada 01
 

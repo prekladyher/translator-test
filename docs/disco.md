@@ -1,11 +1,14 @@
+---
+titleTemplate: Náhodný výběr
+---
 <script setup>
-import CompareData from "../components/CompareData.vue"
-import units_01 from "../data/disco-01.json";
-import units_02 from "../data/disco-02.json";
-import units_03 from "../data/disco-03.json";
+import CompareData from "@/components/CompareData.vue"
+import units_01 from "@/data/disco-01.json";
+import units_02 from "@/data/disco-02.json";
+import units_03 from "@/data/disco-03.json";
 </script>
 
-# Disco Elysium
+# Náhodný výběr &ndash; Disco Elysium
 
 ## Testovací sada 01
 

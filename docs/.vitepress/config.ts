@@ -1,13 +1,38 @@
+import { fileURLToPath } from "url";
 import { defineConfig } from "vitepress";
 
 export default defineConfig({
-    title: "PH Squad",
+    title: "Translator Test",
+    description: "Research project for machine translation based game localization.",
     appearance: "dark",
     base: "/translator-test/",
     themeConfig: {
-        darkModeSwitchLabel: "Vzhled",
-        outline: {
-            label: "Obsah"
+      logo: "/logo.png",
+      darkModeSwitchLabel: "Vzhled",
+      outline: {
+        label: "Obsah"
+      },
+      sidebar: [
+        {
+          text: "Náhodný výběr",
+          items: [
+            {
+              text: "Disco Elysium",
+              link: "/disco"
+            },
+            {
+              text: "Fallout 4",
+              link: "/fallout"
+            }
+          ]
         }
-    }
+      ]
+    },
+    vite: {
+      resolve: {
+        alias: {
+          "@": fileURLToPath(new URL("../..", import.meta.url))
+        }
+      }
+    },
 });
