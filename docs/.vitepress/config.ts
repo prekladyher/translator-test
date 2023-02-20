@@ -26,7 +26,10 @@ export default defineConfig({
             }
           ]
         }
-      ]
+      ],
+      socialLinks: [
+        { icon: 'github', link: 'https://github.com/prekladyher/translator-test' }
+      ],
     },
     vite: {
       resolve: {
